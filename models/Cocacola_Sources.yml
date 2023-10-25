@@ -1,0 +1,13 @@
+version: 2
+sources:
+
+  - name: Cocacola
+    database: Cocacola-DB
+    schema: dbo
+    tables:
+      - name: Customers_DB_1
+      - name: Customers_DB_2
+      - name: Packs_DB
+      - name: Transactions_1
+      - name: Transactions_2
+      - name: Transactions_3

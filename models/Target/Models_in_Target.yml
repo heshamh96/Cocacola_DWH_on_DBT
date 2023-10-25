@@ -1,0 +1,16 @@
+version: 2
+
+
+
+
+models:
+  - name: dim_Customers
+    description: a Dimenson That represents all the Customers of Cocacola 
+
+  - name: dim_Packs
+    description: | 
+                  The Dimension Packs is a dimention of all productns and sales people with in the Operations of Cocacola 
+
+  - name: fact_Transactions
+    description: | 
+                  this is a cat table of all Transactions in Cocacola
