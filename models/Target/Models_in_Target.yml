@@ -6,11 +6,32 @@ version: 2
 models:
   - name: dim_Customers
     description: a Dimenson That represents all the Customers of Cocacola 
+    columns:
+      - name: Customer_Code
+        tests:
+        - unique
+        - not_null
 
   - name: dim_Packs
     description: | 
                   The Dimension Packs is a dimention of all productns and sales people with in the Operations of Cocacola 
+    columns:
+      - name: SKU_Code
+        tests:
+        - unique
+        - not_null
+
+
 
   - name: fact_Transactions
     description: | 
                   this is a cat table of all Transactions in Cocacola
+    tests:
+    - unique:
+            column_name: " Customer_Code + SKU_Code "
+    columns:
+      - name: file_name
+        tests:
+          - accepted_values:
+              values: [1,2,3]
+              quote: false

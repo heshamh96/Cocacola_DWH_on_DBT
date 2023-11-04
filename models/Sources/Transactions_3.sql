@@ -14,6 +14,7 @@ SELECT
 	[Month],
 	[Year],
 	Calendar_Day
+	, '3' as file_name
 FROM
 
     {{source('Cocacola','Transactions_3')}}

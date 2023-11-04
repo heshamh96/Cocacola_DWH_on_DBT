@@ -12,7 +12,8 @@ SELECT
 	[Day],
 	[Month],
 	[Year],
-	Calendar_Day
+	Calendar_Day,
+	file_name
 FROM
 
     {{ref('Transactions_1')}}
@@ -29,7 +30,8 @@ FROM
 	[Day],
 	[Month],
 	[Year],
-	Calendar_Day
+	Calendar_Day,
+	file_name
 FROM
 
     {{ref('Transactions_2')}}
@@ -48,6 +50,7 @@ FROM
 	[Day],
 	[Month],
 	[Year],
-	Calendar_Day
+	Calendar_Day,
+	file_name
 FROM
 {{ref('Transactions_3')}}
