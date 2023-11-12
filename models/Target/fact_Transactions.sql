@@ -1,56 +1,26 @@
 
-{{ config(materialized='table') }}
+{{ config(materialized='table'
+,docs={'node_color':'blue'}
+,tags=['TRGT','DWH']
+) }}
+
 
 
 SELECT
 	Customer_Code,
 	SKU_Code,
 	Quantity,
-	Ordering_Date,
+	{{extract_year_month('Ordering_Date')}} as Ordering_Date,
 	Delivery_Date,
 	Days_For_Delivery,
 	[Day],
 	[Month],
 	[Year],
 	Calendar_Day,
-	file_name
+	Price
+	,Total_Cost
+	,Margin
+	,file_name
 FROM
 
-    {{ref('Transactions_1')}}
-
-    union
-
-    SELECT
-	Customer_Code,
-	SKU_Code,
-	Quantity,
-	Ordering_Date,
-	Delivery_Date,
-	Days_For_Delivery,
-	[Day],
-	[Month],
-	[Year],
-	Calendar_Day,
-	file_name
-FROM
-
-    {{ref('Transactions_2')}}
-
-
-    union
-
-
-    SELECT
-	Customer_Code,
-	SKU_Code,
-	Quantity,
-	Ordering_Date,
-	Delivery_Date,
-	Days_For_Delivery,
-	[Day],
-	[Month],
-	[Year],
-	Calendar_Day,
-	file_name
-FROM
-{{ref('Transactions_3')}}
+    {{ref('stg_fact_Transactions')}}

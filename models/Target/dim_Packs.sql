@@ -1,5 +1,8 @@
 
-{{ config(materialized='table') }}
+{{ config(materialized='table'
+,docs={'node_color':'blue'}
+,tags=['TRGT','DWH']
+) }}
 
 
 
