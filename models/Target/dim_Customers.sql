@@ -1,52 +1,42 @@
-
 {{ config(materialized='table'
-
 ,docs={'node_color':'blue'}
 ,tags=['TRGT','DWH']
-
 ) }}
 
-
 SELECT
-	Customer_Code,
-	Customer_name,
-	Customer_Channel_type,
-	Customer_coordinates_X,
-	Customer_coordinates_y,
-	Number_of_Doors,
-	Route,
-	Rep_name,
-	Supervisor_name,
-	Service_Channel,
-	Depot,
-	USM_name,
-	Region,
-	RSM,
-	Discount
+	customer_code,
+	customer_name,
+	customer_channel_type,
+	customer_coordinates_x,
+	customer_coordinates_y,
+	number_of_doors,
+	route,
+	rep_name,
+	supervisor_name,
+	service_channel,
+	depot,
+	usm_name,
+	region,
+	rsm,
+	discount
 FROM
-	{{ref('Customer_1')}}
-
-
-
+	{{ref('customer_1')}}
     union
-
-
-
 SELECT
-	Customer_Code,
-	Customer_name,
-	Customer_Channel_type,
-	X_Axis,
-	Y_Axis,
-	Number_of_Doors,
-	Route,
-	Rep_name,
-	Supervisor_name,
-	Service_Channel,
-	Depot,
-	USM_name,
-	Region,
-	RSM,
-	Discount
+	customer_code,
+	customer_name,
+	customer_channel_type,
+	x_axis AS customer_coordinates_x,
+	y_axis AS customer_coordinates_y,
+	number_of_doors,
+	route,
+	rep_name,
+	supervisor_name,
+	service_channel,
+	depot,
+	usm_name,
+	region,
+	rsm,
+	discount
 FROM
-	{{ref('Customer_2')}}
+	{{ref('customer_2')}}

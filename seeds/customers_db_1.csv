@@ -1,0 +1,470 @@
+﻿Customer Code,Customer name,Customer Channel type, Customer coordinates X , Customer coordinates y ,Number of Doors,Route,Rep name,Supervisor name,Service Channel,Depot,USM name,Region,RSM,Discount
+Cs 456,36- س م المهندس-منافذبولاق,SM,30.0434,31.1854,3,36-Presales منافذبولاق,Rep 83,Sup 15,Conv,36-Bashteel,USM 8,Giza,RSM 2,1.25%
+Cs 457,36-K-اسواق الزهور-منافذ بولاق,Kiosks,30.058,31.1878,1,36-Presales منافذبولاق,Rep 83,Sup 15,Presell,36-Bashteel,USM 8,Giza,RSM 2,0.75%
+Cs 458,36-k-البان الاصدقاء-ارض اللواء,LG,30.0577,31.1819,2,36-Presales منافذبولاق,Rep 83,Sup 15,Presell,36-Bashteel,USM 8,Giza,RSM 2,1.00%
+Cs 459,36-K-اللواء ماركت-منافذ بولاق,SG,30.0541,31.1896,1,36-Presales منافذبولاق,Rep 83,Sup 15,Presell,36-Bashteel,USM 8,Giza,RSM 2,0.75%
+Cs 460,36-K-س م ابوادهم-ارض اللواء,Kiosks,30.0473,31.1907,2,36-Presales منافذبولاق,Rep 83,Sup 15,Presell,36-Bashteel,USM 8,Giza,RSM 2,1.00%
+Cs 461,36-K-س م الزهيرى1-عبدربة-ارض اللواء2,LG,30.0514,31.1873,1,36-Presales منافذبولاق,Rep 83,Sup 15,Presell,36-Bashteel,USM 8,Giza,RSM 2,0.75%
+Cs 462,36-k-س م المغربى -منافذبولاق,SG,30.0435,31.1788,1,36-Presales منافذبولاق,Rep 83,Sup 15,Presell,36-Bashteel,USM 8,Giza,RSM 2,0.75%
+Cs 463,36-K-س م اولادخليفة -منافذ بولاق,Kiosks,30.0581,31.1838,1,36-Presales منافذبولاق,Rep 83,Sup 15,Presell,36-Bashteel,USM 8,Giza,RSM 2,0.75%
+Cs 464,36-k-س م بركة عبادالرحمن-منافذ بولاق,SM,30.0518,31.1831,1,36-Presales منافذبولاق,Rep 83,Sup 15,Conv,36-Bashteel,USM 8,Giza,RSM 2,0.75%
+Cs 465,36-k-س م تبارك-محمدربيع-منافذارض اللواء,LG,30.0566,31.188,1,36-Presales منافذبولاق,Rep 83,Sup 15,Conv,36-Bashteel,USM 8,Giza,RSM 2,0.75%
+Cs 466,36-K-س م زوما-منافذبولاق,SG,30.0289,31.1953,2,36-Presales منافذبولاق,Rep 83,Sup 15,Conv,36-Bashteel,USM 8,Giza,RSM 2,1.00%
+Cs 467,36-k-س م لمار-منافذارض اللواء,Kiosks,30.0561,31.1881,1,36-Presales منافذبولاق,Rep 83,Sup 15,Conv,36-Bashteel,USM 8,Giza,RSM 2,0.75%
+Cs 468,36-K-س.م سما -منافذارض اللواء,SM,30.0536,31.1858,2,36-Presales منافذبولاق,Rep 83,Sup 15,Conv,36-Bashteel,USM 8,Giza,RSM 2,1.00%
+Cs 469,36-التقوي,Kiosks,30.072,31.2073,1,36-Presales منافذبولاق,Rep 83,Sup 15,Presell,36-Bashteel,USM 8,Giza,RSM 2,0.75%
+Cs 470,36-K- اسواق فتح-ش عبدالمنعم رياض,LG,30.1036,31.2197,2,إمبابة اسواق,Rep 84,Sup 15,Presell,36-Bashteel,USM 8,Giza,RSM 2,1.00%
+Cs 471,36-K-اسواق الحرم-ش المطار-منافذامبابة,SG,30.073,31.2011,2,إمبابة اسواق,Rep 84,Sup 15,Presell,36-Bashteel,USM 8,Giza,RSM 2,1.00%
+Cs 472,36-k-اسواق بلال-منافذامبابة,Kiosks,30.0795,31.2225,3,إمبابة اسواق,Rep 84,Sup 15,Presell,36-Bashteel,USM 8,Giza,RSM 2,1.25%
+Cs 473,36-K-س م الخولى-منافذامبابة,LG,30.0942,31.2055,3,إمبابة اسواق,Rep 84,Sup 15,Presell,36-Bashteel,USM 8,Giza,RSM 2,1.25%
+Cs 474,36-البان الرحمن,SG,30.0954,31.202,1,إمبابة اسواق,Rep 84,Sup 15,Conv,36-Bashteel,USM 8,Giza,RSM 2,0.75%
+Cs 475,36-البيت,Kiosks,30.0801,31.1948,2,إمبابة اسواق,Rep 84,Sup 15,Conv,36-Bashteel,USM 8,Giza,RSM 2,1.00%
+Cs 476,36-العلا ماركت,SM,30.0802,31.2217,1,إمبابة اسواق,Rep 84,Sup 15,Conv,36-Bashteel,USM 8,Giza,RSM 2,0.75%
+Cs 477,36-اولاد عبد الفتاح,Kiosks,30.0795,31.2159,1,إمبابة اسواق,Rep 84,Sup 15,Conv,36-Bashteel,USM 8,Giza,RSM 2,0.75%
+Cs 478,36-س.م اولاد رجب,SM,30.0953,31.2023,1,إمبابة اسواق,Rep 84,Sup 15,Conv,36-Bashteel,USM 8,Giza,RSM 2,0.75%
+Cs 479,45-اولاد ماضى,Kiosks,30.0676,31.2505,1,45-PRE_GPX احمد حلمى,Rep 85,Sup 16,Conv,45-Shobra,USM 9,Giza,RSM 2,0.75%
+Cs 480,45-اسواق الشرقية غمرة,LG,30.0881,31.2844,2,45-PRE_GPX الزاوية1,Rep 86,Sup 16,Presell,45-Shobra,USM 9,Giza,RSM 2,1.00%
+Cs 481,45-تامر محمد بهيج,SG,30.0991,31.2729,3,45-PRE_GPX الزاوية1,Rep 86,Sup 16,Presell,45-Shobra,USM 9,Giza,RSM 2,1.25%
+Cs 482,45-رمضان,Kiosks,30.0729,31.268,3,45-PRE_GPX الزاوية1,Rep 86,Sup 16,Presell,45-Shobra,USM 9,Giza,RSM 2,1.25%
+Cs 483,45-الامين للتجارة والتوزيع,LG,30.0999,31.2996,1,45-PRE_GPX مساكن السعوديه,Rep 87,Sup 16,Presell,45-Shobra,USM 9,Giza,RSM 2,0.75%
+Cs 484,45-البداية ماركت,SG,30.1011,31.2957,2,45-PRE_GPX مساكن السعوديه,Rep 87,Sup 16,Presell,45-Shobra,USM 9,Giza,RSM 2,1.00%
+Cs 485,45-العسكري,Kiosks,30.0915,31.2895,2,45-PRE_GPX مساكن السعوديه,Rep 87,Sup 16,Presell,45-Shobra,USM 9,Giza,RSM 2,1.00%
+Cs 486,45-سنابل,SG,30.0909,31.2897,3,45-PRE_GPX مساكن السعوديه,Rep 87,Sup 16,Presell,45-Shobra,USM 9,Giza,RSM 2,1.25%
+Cs 487,45-عباد الرحمن,Kiosks,30.1016,31.2992,3,45-PRE_GPX مساكن السعوديه,Rep 87,Sup 16,Conv,45-Shobra,USM 9,Giza,RSM 2,1.25%
+Cs 488,45-ابو صالح1,LG,30.0838,31.2823,1,45-PRE_GPX مصر و السودان,Rep 88,Sup 16,Conv,45-Shobra,USM 9,Giza,RSM 2,0.75%
+Cs 489,45-على بابا,SG,30.0867,31.2871,2,45-PRE_GPX مصر و السودان,Rep 88,Sup 16,Conv,45-Shobra,USM 9,Giza,RSM 2,1.00%
+Cs 490,45-سوبر ماركت الراعى,Kiosks,30.1061,31.2905,1,45-PRE_GPXالأميرية 1,Rep 89,Sup 16,Conv,45-Shobra,USM 9,Giza,RSM 2,0.75%
+Cs 491,45-الونش,SM,30.0793,31.2541,2,45-PRE_GPXالترعه البولاقيه,Rep 90,Sup 17,Conv,45-Shobra,USM 9,Giza,RSM 2,1.00%
+Cs 492,45-اسواق الشرقية,Kiosks,30.1024,31.2558,2,45-PRE_GPXالخلفاوى,Rep 91,Sup 17,Presell,45-Shobra,USM 9,Giza,RSM 2,1.00%
+Cs 493,45-كابتن سامى,SM,30.096,31.2548,3,45-PRE_GPXالخلفاوى,Rep 91,Sup 17,Presell,45-Shobra,USM 9,Giza,RSM 2,1.25%
+Cs 494,45-كيمو توب,Kiosks,30.0958,31.2459,3,45-PRE_GPXالخلفاوى,Rep 91,Sup 17,Presell,45-Shobra,USM 9,Giza,RSM 2,1.25%
+Cs 495,45-مصطفى الديب,LG,30.0936,31.2491,1,45-PRE_GPXالخلفاوى,Rep 91,Sup 17,Presell,45-Shobra,USM 9,Giza,RSM 2,0.75%
+Cs 496,45-احمد بيدق,SG,30.0727,31.2608,2,45-PRE_GPXالشرابيه,Rep 92,Sup 17,Presell,45-Shobra,USM 9,Giza,RSM 2,1.00%
+Cs 497,45-اسواق الجمل) احمد جمال محمد,Kiosks,30.092,31.2575,1,45-PRE_GPXالشرابيه,Rep 92,Sup 17,Conv,45-Shobra,USM 9,Giza,RSM 2,0.75%
+Cs 498,45-على بابا,SG,30.0753,31.2611,2,45-PRE_GPXالشرابيه,Rep 92,Sup 17,Conv,45-Shobra,USM 9,Giza,RSM 2,1.00%
+Cs 499,45-المنياوى,Kiosks,30.0931,31.2454,1,45-PRE_GPXش شبرا,Rep 93,Sup 18,Conv,45-Shobra,USM 9,Giza,RSM 2,0.75%
+Cs 500,45-حلواني الخطيب,LG,30.0933,31.2451,2,45-PRE_GPXش شبرا,Rep 93,Sup 18,Conv,45-Shobra,USM 9,Giza,RSM 2,1.00%
+Cs 501,45-كيمو لاند,SG,30.0843,31.2456,2,45-PRE_GPXش شبرا,Rep 93,Sup 18,Conv,45-Shobra,USM 9,Giza,RSM 2,1.00%
+Cs 502,45-هايبر المنصوره,Kiosks,30.0898,31.2455,3,45-PRE_GPXش شبرا,Rep 93,Sup 18,Conv,45-Shobra,USM 9,Giza,RSM 2,1.25%
+Cs 503,45-زمزم,SM,30.1117,31.2471,3,45-PRE_GPXشبرا الخيمة,Rep 94,Sup 18,Presell,45-Shobra,USM 9,Giza,RSM 2,1.25%
+Cs 504,45-سونة,Kiosks,30.108,31.2481,1,45-PRE_GPXشبرا الخيمة,Rep 94,Sup 18,Presell,45-Shobra,USM 9,Giza,RSM 2,0.75%
+Cs 505,45-H-شهبندر(محمد محمد سلامه,SM,30.0952,31.243,2,45-Pre_Shoubra_ key Account 1,Rep 95,Sup 18,Presell,45-Shobra,USM 9,Giza,RSM 2,1.00%
+Cs 506,45-استاند ماركت,Kiosks,30.0652,31.2288,1,45-Pre_Shoubra_ key Account 1,Rep 95,Sup 18,Presell,45-Shobra,USM 9,Giza,RSM 2,0.75%
+Cs 507,45-اسواق المصري,SM,30.0874,31.24,1,45-Pre_Shoubra_ key Account 1,Rep 95,Sup 18,Presell,45-Shobra,USM 9,Giza,RSM 2,0.75%
+Cs 508,45-البستان,Kiosks,30.0906,31.2365,1,45-Pre_Shoubra_ key Account 1,Rep 95,Sup 18,Presell,45-Shobra,USM 9,Giza,RSM 2,0.75%
+Cs 509,45-الهدى,LG,30.0651,31.2444,1,45-Pre_Shoubra_ key Account 1,Rep 95,Sup 18,Presell,45-Shobra,USM 9,Giza,RSM 2,0.75%
+Cs 510,45-بيدق,SG,30.0803,31.2453,1,45-Pre_Shoubra_ key Account 1,Rep 95,Sup 18,Conv,45-Shobra,USM 9,Giza,RSM 2,0.75%
+Cs 511,45-بيشوي,Kiosks,30.0844,31.2386,2,45-Pre_Shoubra_ key Account 1,Rep 95,Sup 18,Conv,45-Shobra,USM 9,Giza,RSM 2,1.00%
+Cs 512,45-جنديه ماركت,LG,30.0937,31.2375,1,45-Pre_Shoubra_ key Account 1,Rep 95,Sup 18,Conv,45-Shobra,USM 9,Giza,RSM 2,0.75%
+Cs 513,45-محمد الطيب,SG,30.0757,31.2448,2,45-Pre_Shoubra_ key Account 1,Rep 95,Sup 18,Conv,45-Shobra,USM 9,Giza,RSM 2,1.00%
+Cs 514,45-وادى النيل,Kiosks,30.0948,31.2381,1,45-Pre_Shoubra_ key Account 1,Rep 95,Sup 18,Conv,45-Shobra,USM 9,Giza,RSM 2,0.75%
+Cs 515,54-15-اسواق الجوهرى-الاردنيه,SM,29.979249,30.942312,2,الاردنيه,Rep 96,Sup 19,Presell,54-6 October,USM 10,Giza,RSM 2,1.00%
+Cs 516,54-15-زمزم-الاردنيه,LG,29.97865,30.942926,2,الاردنيه,Rep 96,Sup 19,Presell,54-6 October,USM 10,Giza,RSM 2,1.00%
+Cs 517,54-15-شط العرب-الاردنيه,SG,29.984823,30.944446,3,الاردنيه,Rep 96,Sup 19,Presell,54-6 October,USM 10,Giza,RSM 2,1.25%
+Cs 518,54-15-مرحبا-الاردنية,Kiosks,29.984049,30.938025,3,الاردنيه,Rep 96,Sup 19,Presell,54-6 October,USM 10,Giza,RSM 2,1.25%
+Cs 519,54-16-الكلاوى-الاردنيه,SM,29.982884,30.939704,1,الاردنيه,Rep 96,Sup 19,Presell,54-6 October,USM 10,Giza,RSM 2,0.75%
+Cs 520,54-16-سى عمر-الاردنيه,Kiosks,29.979418,30.942666,2,الاردنيه,Rep 96,Sup 19,Conv,54-6 October,USM 10,Giza,RSM 2,1.00%
+Cs 521,54-H-الباشا-الاردنيه,LG,29.98064,30.9417,1,الاردنيه,Rep 96,Sup 19,Conv,54-6 October,USM 10,Giza,RSM 2,0.75%
+Cs 522,54-H-الهنا-الاردنيه,SG,29.980298,30.942123,1,الاردنيه,Rep 96,Sup 19,Conv,54-6 October,USM 10,Giza,RSM 2,0.75%
+Cs 523,54-الرحمه ماركت,Kiosks,29.979201,30.942606,1,الاردنيه,Rep 96,Sup 19,Conv,54-6 October,USM 10,Giza,RSM 2,0.75%
+Cs 524,54-الفكهانى,LG,29.98029,30.93392,1,الاردنيه,Rep 96,Sup 19,Conv,54-6 October,USM 10,Giza,RSM 2,0.75%
+Cs 525,54-خير ذاد,SG,29.978942,30.943347,1,الاردنيه,Rep 96,Sup 19,Conv,54-6 October,USM 10,Giza,RSM 2,0.75%
+Cs 526,54-H-اسواق العبد-الامريكيه,Kiosks,29.970512,30.941062,2,الامريكيه,Rep 97,Sup 19,Presell,54-6 October,USM 10,Giza,RSM 2,1.00%
+Cs 527,54-H-المنياوى-الامريكية,SM,29.973221,30.944569,1,الامريكيه,Rep 97,Sup 19,Presell,54-6 October,USM 10,Giza,RSM 2,0.75%
+Cs 528,54-15-اسواق الرافدين-الاول,Kiosks,29.969835,30.94226,2,الحي الاول,Rep 98,Sup 19,Presell,54-6 October,USM 10,Giza,RSM 2,1.00%
+Cs 529,54-15-العبيدي-الاول,SM,29.971701,30.952219,2,الحي الاول,Rep 98,Sup 19,Presell,54-6 October,USM 10,Giza,RSM 2,1.00%
+Cs 530,54-15-حلو الجامعه-الاول,Kiosks,29.971043,30.950228,3,الحي الاول,Rep 98,Sup 19,Presell,54-6 October,USM 10,Giza,RSM 2,1.25%
+Cs 531,54-15-زمزم-الاول,LG,29.968664,30.946528,3,الحي الاول,Rep 98,Sup 19,Presell,54-6 October,USM 10,Giza,RSM 2,1.25%
+Cs 532,54-ابن السماك,SG,29.971493,30.950868,1,الحي الاول,Rep 98,Sup 19,Presell,54-6 October,USM 10,Giza,RSM 2,0.75%
+Cs 533,54-اسوق اساحبي,Kiosks,29.968862,30.940805,2,الحي الاول,Rep 98,Sup 19,Conv,54-6 October,USM 10,Giza,RSM 2,1.00%
+Cs 534,54-السلاب,LG,29.96615,30.948032,2,الحي الاول,Rep 98,Sup 19,Conv,54-6 October,USM 10,Giza,RSM 2,1.00%
+Cs 535,54-الفايدى,SG,29.971867,30.951235,1,الحي الاول,Rep 98,Sup 19,Conv,54-6 October,USM 10,Giza,RSM 2,0.75%
+Cs 536,54-الكلاوي-الاول,Kiosks,29.968623,30.946369,2,الحي الاول,Rep 98,Sup 19,Conv,54-6 October,USM 10,Giza,RSM 2,1.00%
+Cs 537,54-زمزم2,SG,29.971544,30.949293,1,الحي الاول,Rep 98,Sup 19,Conv,54-6 October,USM 10,Giza,RSM 2,0.75%
+Cs 538,54-15-اسواق الباشا-الحى الثالث,Kiosks,29.959757,30.945468,2,الحي الثالث,Rep 99,Sup 19,Presell,54-6 October,USM 10,Giza,RSM 2,1.00%
+Cs 539,54-الشام ماركت,LG,29.958581,30.942771,2,الحي الثالث,Rep 99,Sup 19,Presell,54-6 October,USM 10,Giza,RSM 2,1.00%
+Cs 540,54-زمزم-رمزى,SG,29.959258,30.934064,3,الحي الثالث,Rep 99,Sup 19,Presell,54-6 October,USM 10,Giza,RSM 2,1.25%
+Cs 541,54-15-المدينة-السادس2,Kiosks,29.95971,30.929093,3,السادس2,Rep 100,Sup 19,Presell,54-6 October,USM 10,Giza,RSM 2,1.25%
+Cs 542,54-15-كيمو ب-السادس2,SM,29.954067,30.922934,1,السادس2,Rep 100,Sup 19,Presell,54-6 October,USM 10,Giza,RSM 2,0.75%
+Cs 543,54-اسواق الميهوب,Kiosks,29.949501,30.92714,2,السادس2,Rep 100,Sup 19,Conv,54-6 October,USM 10,Giza,RSM 2,1.00%
+Cs 544,54-التحرير,SM,29.951821,30.935278,1,السادس2,Rep 100,Sup 19,Conv,54-6 October,USM 10,Giza,RSM 2,0.75%
+Cs 545,54-15-حماده ليلة القدر-السادس2,Kiosks,29.945995,30.905303,1,السادس3,Rep 101,Sup 19,Conv,54-6 October,USM 10,Giza,RSM 2,0.75%
+Cs 546,54-اسواق المعز,LG,29.936517,30.925535,1,السادس3,Rep 101,Sup 19,Conv,54-6 October,USM 10,Giza,RSM 2,0.75%
+Cs 547,54-15-الراوى2-زايد1,SG,30.038416,31.012298,1,الشيخ زايد1,Rep 102,0,Conv,54-6 October,USM 10,Giza,RSM 2,0.75%
+Cs 548,54-15-زهرة الشبراوى-زايد1,Kiosks,30.03373,31.001347,1,الشيخ زايد1,Rep 102,0,Conv,54-6 October,USM 10,Giza,RSM 2,0.75%
+Cs 549,54-15-هانى-زايد 1,SG,30.034359,31.004935,2,الشيخ زايد1,Rep 102,0,Presell,54-6 October,USM 10,Giza,RSM 2,1.00%
+Cs 550,54-المختار,Kiosks,30.031406,31.011335,1,الشيخ زايد1,Rep 102,0,Presell,54-6 October,USM 10,Giza,RSM 2,0.75%
+Cs 551,54-15-اسواق المختار-زايد 2,LG,30.061477,30.957155,2,الشيخ زايد2,Rep 103,0,Presell,54-6 October,USM 10,Giza,RSM 2,1.00%
+Cs 552,54-15-الفيومى-الشيخ زايد 2,SG,30.044758,30.963457,2,الشيخ زايد2,Rep 103,0,Presell,54-6 October,USM 10,Giza,RSM 2,1.00%
+Cs 553,54-15-هايا ماركت-الشيخ زايد2,Kiosks,30.044808,30.988353,3,الشيخ زايد2,Rep 103,0,Presell,54-6 October,USM 10,Giza,RSM 2,1.25%
+Cs 554,54-اسواق الفيومى 2,SM,30.056009,30.9569,3,الشيخ زايد2,Rep 103,0,Presell,54-6 October,USM 10,Giza,RSM 2,1.25%
+Cs 555,54-15-البهجة-المتميز,Kiosks,29.970289,31.037933,1,المتميز,Rep 104,Sup 20,Presell,54-6 October,USM 10,Giza,RSM 2,0.75%
+Cs 556,54-15-المتميز-المتميز,SM,29.986184,30.973632,2,المتميز,Rep 104,Sup 20,Conv,54-6 October,USM 10,Giza,RSM 2,1.00%
+Cs 557,54-15-ستار-المتميز,Kiosks,29.975578,31.051444,1,المتميز,Rep 104,Sup 20,Conv,54-6 October,USM 10,Giza,RSM 2,0.75%
+Cs 558,54-15-العائلات-المستقبل,SM,29.97022,30.916856,2,المستقبل,Rep 105,Sup 20,Conv,54-6 October,USM 10,Giza,RSM 2,1.00%
+Cs 559,54-15-الناروزي-المستقبل,Kiosks,29.966863,30.905611,1,المستقبل,Rep 105,Sup 20,Conv,54-6 October,USM 10,Giza,RSM 2,0.75%
+Cs 560,54-15-اليمامة-المستقبل,LG,29.973097,30.915268,1,المستقبل,Rep 105,Sup 20,Conv,54-6 October,USM 10,Giza,RSM 2,0.75%
+Cs 561,54-H-الجوهري1-المستقبل,SG,29.962745,30.900703,1,المستقبل,Rep 105,Sup 20,Presell,54-6 October,USM 10,Giza,RSM 2,0.75%
+Cs 562,54-الرحاب-المستقبل,Kiosks,29.96288,30.89987,1,المستقبل,Rep 105,Sup 20,Presell,54-6 October,USM 10,Giza,RSM 2,0.75%
+Cs 563,54-هايبر الشرق الوسط,LG,29.919578,30.888648,1,المصانع,Rep 106,Sup 20,Presell,54-6 October,USM 10,Giza,RSM 2,0.75%
+Cs 564,54-15-2الروضة-الهضبه,SG,29.950978,31.0507,2,الهضبه -2,Rep 107,Sup 20,Presell,54-6 October,USM 10,Giza,RSM 2,1.00%
+Cs 565,54-15-اسواق الحزيفى-الهضبه2,Kiosks,29.979762,31.097365,1,الهضبه -2,Rep 107,Sup 20,Presell,54-6 October,USM 10,Giza,RSM 2,0.75%
+Cs 566,54-15-الروضه 2-الهضبه2,SM,29.951985,31.051109,2,الهضبه -2,Rep 107,Sup 20,Conv,54-6 October,USM 10,Giza,RSM 2,1.00%
+Cs 567,54-اكسبشن-3,LG,29.953058,31.097505,1,الهضبه -2,Rep 107,Sup 20,Conv,54-6 October,USM 10,Giza,RSM 2,0.75%
+Cs 568,54-15-مترو السريع-حدائق الاهرام,SG,29.981344,31.104359,2,حدائق الاهرام,Rep 108,Sup 20,Conv,54-6 October,USM 10,Giza,RSM 2,1.00%
+Cs 569,54-ميرا,Kiosks,29.982492,31.108929,2,حدائق الاهرام,Rep 108,Sup 20,Conv,54-6 October,USM 10,Giza,RSM 2,1.00%
+Cs 570,54-هايبر العشرين,SM,29.977715,31.105269,3,حدائق الاهرام,Rep 108,Sup 20,Conv,54-6 October,USM 10,Giza,RSM 2,1.25%
+Cs 571,61-  سوبر ماركت ما شاء الله,Kiosks,30.048969,31.201402,3,61-خط البالون,Rep 109,Sup 21,Conv,61-Manial Shiha,USM 11,Giza,RSM 2,1.25%
+Cs 572,61- الفتح للجمله,LG,30.044747,31.197321,1,61-خط البالون,Rep 109,Sup 21,Presell,61-Manial Shiha,USM 11,Giza,RSM 2,0.75%
+Cs 573,61-ابو عمرو,SG,30.052917,31.205646,2,61-خط البالون,Rep 109,Sup 21,Presell,61-Manial Shiha,USM 11,Giza,RSM 2,1.00%
+Cs 574,61-احمد مصطفى-,Kiosks,30.050609,31.2025,1,61-خط البالون,Rep 109,Sup 21,Presell,61-Manial Shiha,USM 11,Giza,RSM 2,0.75%
+Cs 575,61-الشلودي,LG,30.054151,31.205887,1,61-خط البالون,Rep 109,Sup 21,Presell,61-Manial Shiha,USM 11,Giza,RSM 2,0.75%
+Cs 576,61-الفواكه ماركت-,SG,30.049706,31.203825,1,61-خط البالون,Rep 109,Sup 21,Presell,61-Manial Shiha,USM 11,Giza,RSM 2,0.75%
+Cs 577,61-اولدريفر,Kiosks,30.055613,31.20854,2,61-خط البالون,Rep 109,Sup 21,Presell,61-Manial Shiha,USM 11,Giza,RSM 2,1.00%
+Cs 578,61-سوق التخفيضات - الكروم,SM,30.050367,31.204088,1,61-خط البالون,Rep 109,Sup 21,Presell,61-Manial Shiha,USM 11,Giza,RSM 2,0.75%
+Cs 579,61-الجابري المحطة,Kiosks,30.009745,31.216673,2,61-خط الجيزه,Rep 110,Sup 21,Conv,61-Manial Shiha,USM 11,Giza,RSM 2,1.00%
+Cs 580,61-الحاج,SM,30.009048,31.210335,1,61-خط الجيزه,Rep 110,Sup 21,Conv,61-Manial Shiha,USM 11,Giza,RSM 2,0.75%
+Cs 581,61-الفلاح,Kiosks,30.012512,31.214215,2,61-خط الجيزه,Rep 110,Sup 21,Conv,61-Manial Shiha,USM 11,Giza,RSM 2,1.00%
+Cs 582,61-تسالى حياتى,LG,30.036218,31.203153,2,61-خط الدقي,Rep 111,Sup 21,Conv,61-Manial Shiha,USM 11,Giza,RSM 2,1.00%
+Cs 583,61-ربات البيوت,SG,30.018143,31.214839,3,61-خط الدقي,Rep 111,Sup 21,Conv,61-Manial Shiha,USM 11,Giza,RSM 2,1.25%
+Cs 584,61-التميمى,Kiosks,30.05996,31.221743,3,61-خط الزمالك,Rep 112,Sup 21,Presell,61-Manial Shiha,USM 11,Giza,RSM 2,1.25%
+Cs 585,61-الزمالك البحرية-,LG,30.064974,31.217062,1,61-خط الزمالك,Rep 112,Sup 21,Presell,61-Manial Shiha,USM 11,Giza,RSM 2,0.75%
+Cs 586,61-بكير,SG,30.061013,31.219417,2,61-خط الزمالك,Rep 112,Sup 21,Presell,61-Manial Shiha,USM 11,Giza,RSM 2,1.00%
+Cs 587,61-سوق الحبايب,Kiosks,30.071825,31.221863,1,61-خط الزمالك,Rep 112,Sup 21,Presell,61-Manial Shiha,USM 11,Giza,RSM 2,0.75%
+Cs 588,61- الريف - اولاد عوض,SG,30.063933,31.20634,2,61-خط الصحفين,Rep 113,Sup 21,Presell,61-Manial Shiha,USM 11,Giza,RSM 2,1.00%
+Cs 589,61-ابو عمرو,Kiosks,30.067251,31.201846,1,61-خط الصحفين,Rep 113,Sup 21,Conv,61-Manial Shiha,USM 11,Giza,RSM 2,0.75%
+Cs 590,61-اسماعيل الدويك-,LG,30.064301,31.204691,2,61-خط الصحفين,Rep 113,Sup 21,Conv,61-Manial Shiha,USM 11,Giza,RSM 2,1.00%
+Cs 591,61-المتجر,SG,30.068709,31.198194,1,61-خط الصحفين,Rep 113,Sup 21,Conv,61-Manial Shiha,USM 11,Giza,RSM 2,0.75%
+Cs 592,61- الجوهره,Kiosks,30.042957,31.195006,2,61-خط الصيد,Rep 114,Sup 21,Conv,61-Manial Shiha,USM 11,Giza,RSM 2,1.00%
+Cs 593,61-العروبة,SM,30.039122,31.206751,2,61-خط الصيد,Rep 114,Sup 21,Conv,61-Manial Shiha,USM 11,Giza,RSM 2,1.00%
+Cs 594,61-المحمديه,Kiosks,30.040412,31.197326,3,61-خط الصيد,Rep 114,Sup 21,Conv,61-Manial Shiha,USM 11,Giza,RSM 2,1.25%
+Cs 595,61-توشكى,SM,30.043415,31.199337,3,61-خط الصيد,Rep 114,Sup 21,Presell,61-Manial Shiha,USM 11,Giza,RSM 2,1.25%
+Cs 596,61-س.م الجمل.,Kiosks,30.056534,31.211305,1,61-خط العجوزه,Rep 115,Sup 22,Presell,61-Manial Shiha,USM 11,Giza,RSM 2,0.75%
+Cs 597,61-شاهين,LG,30.049147,31.213943,2,61-خط العجوزه,Rep 115,Sup 22,Presell,61-Manial Shiha,USM 11,Giza,RSM 2,1.00%
+Cs 598,61-ياسين,SG,30.056884,31.212297,2,61-خط العجوزه,Rep 115,Sup 22,Presell,61-Manial Shiha,USM 11,Giza,RSM 2,1.00%
+Cs 599,61- AUTO Z,Kiosks,30.044018,31.217304,1,61-خط المساحه,Rep 116,Sup 22,Presell,61-Manial Shiha,USM 11,Giza,RSM 2,0.75%
+Cs 600,61-ابو رجيلة الجيزة,SG,30.039401,31.212248,3,61-خط المساحه,Rep 116,Sup 22,Presell,61-Manial Shiha,USM 11,Giza,RSM 2,1.25%
+Cs 601,61-أسواق بغداد-,Kiosks,30.041841,31.218855,1,61-خط المساحه,Rep 116,Sup 22,Presell,61-Manial Shiha,USM 11,Giza,RSM 2,0.75%
+Cs 602,61-اسواق فكره,LG,30.0366,31.211784,2,61-خط المساحه,Rep 116,Sup 22,Conv,61-Manial Shiha,USM 11,Giza,RSM 2,1.00%
+Cs 603,61-الوزير,SG,30.043028,31.213216,3,61-خط المساحه,Rep 116,Sup 22,Conv,61-Manial Shiha,USM 11,Giza,RSM 2,1.25%
+Cs 604,61-بقالة الاسلامية-,Kiosks,30.0456,31.2173,3,61-خط المساحه,Rep 116,Sup 22,Conv,61-Manial Shiha,USM 11,Giza,RSM 2,1.25%
+Cs 605,61-لوك اب,SM,30.036566,31.2147,1,61-خط المساحه,Rep 116,Sup 22,Conv,61-Manial Shiha,USM 11,Giza,RSM 2,0.75%
+Cs 606,61-ماركت القواسمى,Kiosks,30.036065,31.218156,2,61-خط المساحه,Rep 116,Sup 22,Conv,61-Manial Shiha,USM 11,Giza,RSM 2,1.00%
+Cs 607,61-هارون ( حسن ابراهيم,SM,30.038069,31.217353,2,61-خط المساحه,Rep 116,Sup 22,Presell,61-Manial Shiha,USM 11,Giza,RSM 2,1.00%
+Cs 608,61-س.م. حواديت,Kiosks,30.051531,31.194735,3,61-خط المهندسين,Rep 117,Sup 22,Presell,61-Manial Shiha,USM 11,Giza,RSM 2,1.25%
+Cs 609,61-اسواق الرحمن,SM,29.954333,31.242079,3,61-خط منيل شيحه,Rep 118,Sup 22,Presell,61-Manial Shiha,USM 11,Giza,RSM 2,1.25%
+Cs 610,61-النيل 1-,Kiosks,29.992898,31.215138,1,61-خط منيل شيحه,Rep 118,Sup 22,Presell,61-Manial Shiha,USM 11,Giza,RSM 2,0.75%
+Cs 611,61-نوارة العمدة-,LG,29.992304,31.215211,2,61-خط منيل شيحه,Rep 118,Sup 22,Presell,61-Manial Shiha,USM 11,Giza,RSM 2,1.00%
+Cs 612,61-اولاد عوض,SG,30.064866,31.201489,1,61-خط ميت عقبه,Rep 119,Sup 22,Conv,61-Manial Shiha,USM 11,Giza,RSM 2,0.75%
+Cs 613,61-س ز م الرحمة-,Kiosks,30.060199,31.193928,2,61-خط ميت عقبه,Rep 119,Sup 22,Conv,61-Manial Shiha,USM 11,Giza,RSM 2,1.00%
+Cs 614,54-H-الامير-الحى الاول,LG,29.971441,30.943859,2,الامريكيه,Rep 97,Sup 19,Conv,54-6 October,USM 10,Giza,RSM 2,1.00%
+Cs 615,45-الاسره,SG,30.1062,31.2538,3,45-PRE_GPXش شبرا,Rep 93,Sup 18,Conv,45-Shobra,USM 9,Giza,RSM 2,1.25%
+Cs 616,45-الامير عشم,Kiosks,30.0733,31.2478,3,45-Pre_Shoubra_ key Account 1,Rep 95,Sup 18,Conv,45-Shobra,USM 9,Giza,RSM 2,1.25%
+Cs 617,ابو الشهود,SM,31.205176,29.883306,1,23-Pre 01 بحري,Rep 120,Sup 23,Conv,Smouha,USM 12,Alex,RSM 3,0.75%
+Cs 618,محسن,LG,31.206288,29.883217,2,23-Pre 01 بحري,Rep 120,Sup 23,Presell,Smouha,USM 12,Alex,RSM 3,1.00%
+Cs 619,الرزق,SG,31.202613,29.880507,1,23-Pre 01 بحري,Rep 120,Sup 23,Presell,Smouha,USM 12,Alex,RSM 3,0.75%
+Cs 620,بازار الثورة,Kiosks,31.210792,29.882389,2,23-Pre 01 بحري,Rep 120,Sup 23,Presell,Smouha,USM 12,Alex,RSM 3,1.00%
+Cs 621,رضا,SM,31.199979,29.886362,1,23-Pre 02 المنشية,Rep 121,Sup 23,Presell,Smouha,USM 12,Alex,RSM 3,0.75%
+Cs 622,ارجيرس,Kiosks,31.199269,29.895895,2,23-Pre 03 العطارين و سعد زغلول,Rep 122,Sup 23,Presell,Smouha,USM 12,Alex,RSM 3,1.00%
+Cs 623,2000,LG,31.198699,29.894255,2,23-Pre 03 العطارين و سعد زغلول,Rep 122,Sup 23,Presell,Smouha,USM 12,Alex,RSM 3,1.00%
+Cs 624,سوبر ماركت سوبريم,SG,31.187208,29.910108,3,23-Pre 04 محطة مصر و كرموز,Rep 123,Sup 23,Presell,Smouha,USM 12,Alex,RSM 3,1.25%
+Cs 625,القبطان,Kiosks,31.186052,29.898657,3,23-Pre 04 محطة مصر و كرموز,Rep 123,Sup 23,Conv,Smouha,USM 12,Alex,RSM 3,1.25%
+Cs 626,بازار احمد زكى,LG,31.190685,29.889148,1,23-Pre 04 محطة مصر و كرموز,Rep 123,Sup 23,Conv,Smouha,USM 12,Alex,RSM 3,0.75%
+Cs 627,المنوفى,SG,31.186119,29.898612,2,23-Pre 04 محطة مصر و كرموز,Rep 123,Sup 23,Conv,Smouha,USM 12,Alex,RSM 3,1.00%
+Cs 628,زريق,Kiosks,31.191555,29.91186,1,23-Pre 05 محرم بك,Rep 124,Sup 23,Conv,Smouha,USM 12,Alex,RSM 3,0.75%
+Cs 629,التمساح,SM,31.194363,29.91718,1,23-Pre 05 محرم بك,Rep 124,Sup 23,Conv,Smouha,USM 12,Alex,RSM 3,0.75%
+Cs 630,الجزيرة,Kiosks,31.193217,29.917889,1,23-Pre 05 محرم بك,Rep 124,Sup 23,Presell,Smouha,USM 12,Alex,RSM 3,0.75%
+Cs 631,الفلاح,SM,31.187998,29.917192,1,23-Pre 06 غيط العنب و بوالينو,Rep 125,Sup 23,Presell,Smouha,USM 12,Alex,RSM 3,0.75%
+Cs 632,نصار,Kiosks,31.199262,29.903818,1,23-Pre 07 محطة الرمل,Rep 126,Sup 24,Presell,Smouha,USM 12,Alex,RSM 3,0.75%
+Cs 633,نور الاسلام 1,LG,31.207988,29.90732,2,23-Pre 07 محطة الرمل,Rep 126,Sup 24,Presell,Smouha,USM 12,Alex,RSM 3,1.00%
+Cs 634,الدكر,SG,31.201966,29.912654,1,23-Pre 07 محطة الرمل,Rep 126,Sup 24,Presell,Smouha,USM 12,Alex,RSM 3,0.75%
+Cs 635,احمد كوباية,Kiosks,31.206809,29.908305,2,23-Pre 07 محطة الرمل,Rep 126,Sup 24,Conv,Smouha,USM 12,Alex,RSM 3,1.00%
+Cs 636,المحبة,LG,31.213544,29.924193,1,23-Pre 08 الشاطبي,Rep 127,Sup 25,Conv,Smouha,USM 12,Alex,RSM 3,0.75%
+Cs 637,حمادة,SG,31.21399,29.922033,2,23-Pre 08 الشاطبي,Rep 127,Sup 25,Conv,Smouha,USM 12,Alex,RSM 3,1.00%
+Cs 638,اطلانطك,Kiosks,31.216155,29.925733,2,23-Pre 08 الشاطبي,Rep 127,Sup 25,Conv,Smouha,USM 12,Alex,RSM 3,1.00%
+Cs 639,الرجال,SG,31.21033,29.915765,3,23-Pre 08 الشاطبي,Rep 127,Sup 25,Conv,Smouha,USM 12,Alex,RSM 3,1.25%
+Cs 640,السلاملك,Kiosks,31.222454,29.939544,3,23-Pre 09 كليوباترا,Rep 128,Sup 25,Conv,Smouha,USM 12,Alex,RSM 3,1.25%
+Cs 641,خميس نورا,LG,31.219574,29.938192,1,23-Pre 09 كليوباترا,Rep 128,Sup 25,Presell,Smouha,USM 12,Alex,RSM 3,0.75%
+Cs 642,كليوباترا,SG,31.222241,29.937326,2,23-Pre 09 كليوباترا,Rep 128,Sup 25,Presell,Smouha,USM 12,Alex,RSM 3,1.00%
+Cs 643,مكافحة الغلاء,Kiosks,31.240002,29.959529,1,23-Pre 10 جليم,Rep 129,Sup 25,Presell,Smouha,USM 12,Alex,RSM 3,0.75%
+Cs 644,الايمان,SM,31.251516,29.973467,1,23-Pre 10 جليم,Rep 129,Sup 25,Presell,Smouha,USM 12,Alex,RSM 3,0.75%
+Cs 645,7 Day's,Kiosks,31.24963,29.970505,1,23-Pre 10 جليم,Rep 129,Sup 25,Presell,Smouha,USM 12,Alex,RSM 3,0.75%
+Cs 646,الكوثر,SM,31.250351,29.974239,1,23-Pre 10 جليم,Rep 129,Sup 25,Presell,Smouha,USM 12,Alex,RSM 3,0.75%
+Cs 647,التمساح,Kiosks,31.239999,29.959781,1,23-Pre 10 جليم,Rep 129,Sup 25,Presell,Smouha,USM 12,Alex,RSM 3,0.75%
+Cs 648,البان حسنين,LG,31.239447,29.960564,2,23-Pre 10 جليم,Rep 129,Sup 25,Conv,Smouha,USM 12,Alex,RSM 3,1.00%
+Cs 649,لافى ماركت,SG,31.24541,29.974746,1,23-Pre 10 جليم,Rep 129,Sup 25,Conv,Smouha,USM 12,Alex,RSM 3,0.75%
+Cs 650,7 days,Kiosks,31.237232,29.957796,2,23-Pre 10 جليم,Rep 129,Sup 25,Conv,Smouha,USM 12,Alex,RSM 3,1.00%
+Cs 651,منصور,SG,31.247443,29.968088,2,23-Pre 10 جليم,Rep 129,Sup 25,Conv,Smouha,USM 12,Alex,RSM 3,1.00%
+Cs 652,بورتو ماركت,Kiosks,31.246854,29.969263,3,23-Pre 10 جليم,Rep 129,Sup 25,Conv,Smouha,USM 12,Alex,RSM 3,1.25%
+Cs 653,ميراند,LG,31.240707,29.966403,3,23-Pre 10 جليم,Rep 129,Sup 25,Presell,Smouha,USM 12,Alex,RSM 3,1.25%
+Cs 654,الكمال,SG,31.23479,29.964536,1,23-Pre 11 باكوس,Rep 130,Sup 25,Presell,Smouha,USM 12,Alex,RSM 3,0.75%
+Cs 655,غنيم,Kiosks,31.233092,29.966845,2,23-Pre 11 باكوس,Rep 130,Sup 25,Presell,Smouha,USM 12,Alex,RSM 3,1.00%
+Cs 656,هانى سويت,SM,31.231678,29.954895,2,23-Pre 12 كفر عبده,Rep 131,Sup 25,Presell,Smouha,USM 12,Alex,RSM 3,1.00%
+Cs 657,السرايا,Kiosks,31.224033,29.95253,1,23-Pre 12 كفر عبده,Rep 131,Sup 25,Presell,Smouha,USM 12,Alex,RSM 3,0.75%
+Cs 658,الديناصور,SM,31.223991,29.950697,2,23-Pre 12 كفر عبده,Rep 131,Sup 25,Conv,Smouha,USM 12,Alex,RSM 3,1.00%
+Cs 659,الفتح,Kiosks,31.230674,29.956497,1,23-Pre 12 كفر عبده,Rep 131,Sup 25,Conv,Smouha,USM 12,Alex,RSM 3,0.75%
+Cs 660,رفعت طنطاوى,SM,31.221897,29.942225,2,23-Pre 13 رشدي,Rep 132,Sup 25,Conv,Smouha,USM 12,Alex,RSM 3,1.00%
+Cs 661,الهنا,Kiosks,31.228554,29.945303,2,23-Pre 13 رشدي,Rep 132,Sup 25,Conv,Smouha,USM 12,Alex,RSM 3,1.00%
+Cs 662,شو ماركت,LG,31.230434,29.948194,3,23-Pre 13 رشدي,Rep 132,Sup 25,Conv,Smouha,USM 12,Alex,RSM 3,1.25%
+Cs 663,دكاني,SG,31.233779,29.955618,3,23-Pre 13 رشدي,Rep 132,Sup 25,Conv,Smouha,USM 12,Alex,RSM 3,1.25%
+Cs 664,ندى,Kiosks,31.2272,29.946995,1,23-Pre 13 رشدي,Rep 132,Sup 25,Presell,Smouha,USM 12,Alex,RSM 3,0.75%
+Cs 665,مصراوي ماركت,LG,31.223153,29.948734,2,23-Pre 13 رشدي,Rep 132,Sup 25,Presell,Smouha,USM 12,Alex,RSM 3,1.00%
+Cs 666,اولاد الشيخ,SG,31.221935,29.942222,1,23-Pre 13 رشدي,Rep 132,Sup 25,Presell,Smouha,USM 12,Alex,RSM 3,0.75%
+Cs 667,الانصارى,Kiosks,31.209446,29.932434,1,23-Pre 14 الأبراهيمية و أمبروزو,Rep 133,Sup 24,Presell,Smouha,USM 12,Alex,RSM 3,0.75%
+Cs 668,فداوى,SM,31.210585,29.924593,1,23-Pre 14 الأبراهيمية و أمبروزو,Rep 133,Sup 24,Presell,Smouha,USM 12,Alex,RSM 3,0.75%
+Cs 669,ميامى,LG,31.215449,29.941595,1,23-Pre 15 سموحة,Rep 134,Sup 24,Presell,Smouha,USM 12,Alex,RSM 3,0.75%
+Cs 670,اميرة,SG,31.216216,29.941932,1,23-Pre 15 سموحة,Rep 134,Sup 24,Presell,Smouha,USM 12,Alex,RSM 3,0.75%
+Cs 671,الصفوة ماركت,Kiosks,31.210897,29.944189,2,23-Pre 15 سموحة,Rep 134,Sup 24,Conv,Smouha,USM 12,Alex,RSM 3,1.00%
+Cs 672,الصفوة ماركت,SM,31.208202,29.937146,1,23-Pre 15 سموحة,Rep 134,Sup 24,Conv,Smouha,USM 12,Alex,RSM 3,0.75%
+Cs 673,ماستر,Kiosks,31.214651,29.938603,2,23-Pre 15 سموحة,Rep 134,Sup 24,Conv,Smouha,USM 12,Alex,RSM 3,1.00%
+Cs 674,التكلاي,LG,31.200552,29.936547,2,23-Pre 15 سموحة,Rep 134,Sup 24,Conv,Smouha,USM 12,Alex,RSM 3,1.00%
+Cs 675,حمادة ماركت,SG,31.199211,29.956388,3,23-Pre 16 بلازا و المطار,Rep 135,Sup 24,Conv,Smouha,USM 12,Alex,RSM 3,1.25%
+Cs 676,ستار دوون تاون,Kiosks,31.168162,29.936825,3,23-Pre 16 بلازا و المطار,Rep 135,Sup 24,Presell,Smouha,USM 12,Alex,RSM 3,1.25%
+Cs 677,الحسيني,LG,31.209009,29.959411,1,23-Pre 16 بلازا و المطار,Rep 135,Sup 24,Presell,Smouha,USM 12,Alex,RSM 3,0.75%
+Cs 678,03-بقالة البان سالم,SG,31.166274,29.870448,2,core1_الورديان,Rep 136,Sup 25,Presell,ABI,USM 13,Alex,RSM 3,1.00%
+Cs 679,03-زغلول,Kiosks,31.168683,29.887577,1,core1_الورديان,Rep 136,Sup 25,Presell,ABI,USM 13,Alex,RSM 3,0.75%
+Cs 680,03-معرض الأخوة,SM,31.171271,29.882795,2,core1_الورديان,Rep 136,Sup 25,Presell,ABI,USM 13,Alex,RSM 3,1.00%
+Cs 681,03-نور ماركت,Kiosks,31.176906,29.87918,1,core1_الورديان,Rep 136,Sup 25,Conv,ABI,USM 13,Alex,RSM 3,0.75%
+Cs 682,03-أسواق زيزو جملة ماركت,SM,30.850509,29.384251,1,core10_الحمام والعلمين,Rep 137,Sup 25,Conv,ABI,USM 13,Alex,RSM 3,0.75%
+Cs 683,03-الصفوة-G,Kiosks,30.834599,29.232071,1,core10_الحمام والعلمين,Rep 137,Sup 25,Conv,ABI,USM 13,Alex,RSM 3,0.75%
+Cs 684,03-الهيثم,LG,30.87818,29.370538,1,core10_الحمام والعلمين,Rep 137,Sup 25,Conv,ABI,USM 13,Alex,RSM 3,0.75%
+Cs 685,03-دار السلام,SG,30.82842,28.955879,1,core10_الحمام والعلمين,Rep 137,Sup 25,Conv,ABI,USM 13,Alex,RSM 3,0.75%
+Cs 686,03-السوهاجى,Kiosks,31.001354,29.725568,2,core11_الكينج,Rep 138,Sup 25,Conv,ABI,USM 13,Alex,RSM 3,1.00%
+Cs 687,03-العزومى,LG,31.002809,29.726407,1,core11_الكينج,Rep 138,Sup 25,Presell,ABI,USM 13,Alex,RSM 3,0.75%
+Cs 688,03-بدر,SG,30.884759,29.582423,2,core11_الكينج,Rep 138,Sup 25,Presell,ABI,USM 13,Alex,RSM 3,1.00%
+Cs 689,03-رزق,Kiosks,30.960429,29.670669,1,core11_الكينج,Rep 138,Sup 25,Presell,ABI,USM 13,Alex,RSM 3,0.75%
+Cs 690,03-سوبر ماركت هلال,SG,30.958824,29.672523,2,core11_الكينج,Rep 138,Sup 25,Presell,ABI,USM 13,Alex,RSM 3,1.00%
+Cs 691,03-شىء يحير,Kiosks,30.888183,29.581039,2,core11_الكينج,Rep 138,Sup 25,Presell,ABI,USM 13,Alex,RSM 3,1.00%
+Cs 692,03-الحاج مهدى,LG,31.084549,29.848218,3,core12_العامريه,Rep 139,Sup 25,Presell,ABI,USM 13,Alex,RSM 3,1.25%
+Cs 693,03-الصفوة,SG,31.004355,29.818275,3,core12_العامريه,Rep 139,Sup 25,Presell,ABI,USM 13,Alex,RSM 3,1.25%
+Cs 694,03-اولاد الشيخ2-G(pL),Kiosks,31.041702,29.828604,1,core12_العامريه,Rep 139,Sup 25,Conv,ABI,USM 13,Alex,RSM 3,0.75%
+Cs 695,03-سوبر ماركت عبدالله,SM,31.049739,29.820739,2,core12_العامريه,Rep 139,Sup 25,Conv,ABI,USM 13,Alex,RSM 3,1.00%
+Cs 696,03-صالح ابو زروق,Kiosks,31.011046,29.805604,1,core12_العامريه,Rep 139,Sup 25,Conv,ABI,USM 13,Alex,RSM 3,0.75%
+Cs 697,03-نجمة الاسكندرية,SM,30.985532,29.814109,1,core12_العامريه,Rep 139,Sup 25,Conv,ABI,USM 13,Alex,RSM 3,0.75%
+Cs 698,الرضا,Kiosks,31.045722,29.82754,1,core12_العامريه,Rep 139,Sup 25,Conv,ABI,USM 13,Alex,RSM 3,0.75%
+Cs 699,03-الشطورى,LG,30.600542,30.209768,1,core13_الصحراوى قرى,Rep 140,Sup 25,Presell,ABI,USM 13,Alex,RSM 3,0.75%
+Cs 700,03-بقالة المدينة,SG,30.45468,30.334891,2,core13_الصحراوى قرى,Rep 140,Sup 25,Presell,ABI,USM 13,Alex,RSM 3,1.00%
+Cs 701,03-بقالة المدينه,Kiosks,30.461097,30.326707,3,core13_الصحراوى قرى,Rep 140,Sup 25,Presell,ABI,USM 13,Alex,RSM 3,1.25%
+Cs 702,03-سوبر ماركت حبونى,SG,30.861306,29.920869,3,core13_الصحراوى قرى,Rep 140,Sup 25,Presell,ABI,USM 13,Alex,RSM 3,1.25%
+Cs 703,03-احمد ماهر,Kiosks,30.382536,30.376289,1,core14_الصحراوي رست,Rep 141,Sup 25,Presell,ABI,USM 13,Alex,RSM 3,0.75%
+Cs 704,03-ماركت أبناء عبد الجليل,LG,30.368727,30.347049,2,core14_الصحراوي رست,Rep 141,Sup 25,Conv,ABI,USM 13,Alex,RSM 3,1.00%
+Cs 705,03-(pL)03-سوبر ماركت الرزه,SG,31.134545,29.820506,2,core2_الدخيله,Rep 142,Sup 26,Conv,ABI,USM 13,Alex,RSM 3,1.00%
+Cs 706,03-الفتح,Kiosks,31.159063,29.86968,3,core2_الدخيله,Rep 142,Sup 26,Conv,ABI,USM 13,Alex,RSM 3,1.25%
+Cs 707,03-سوبر ماركت ابو يوسف,SM,31.132071,29.815235,3,core2_الدخيله,Rep 142,Sup 26,Conv,ABI,USM 13,Alex,RSM 3,1.25%
+Cs 708,03-سوبر ماركت مكة,Kiosks,31.162476,29.869481,1,core2_الدخيله,Rep 142,Sup 26,Conv,ABI,USM 13,Alex,RSM 3,0.75%
+Cs 709,03-فهمي 2,SM,31.133238,29.818641,2,core2_الدخيله,Rep 142,Sup 26,Conv,ABI,USM 13,Alex,RSM 3,1.00%
+Cs 710,03-ماركت الحرملك,Kiosks,31.161045,29.871279,1,core2_الدخيله,Rep 142,Sup 26,Presell,ABI,USM 13,Alex,RSM 3,0.75%
+Cs 711,03-نور الاسلام,SM,31.161213,29.871067,2,core2_الدخيله,Rep 142,Sup 26,Presell,ABI,USM 13,Alex,RSM 3,1.00%
+Cs 712,س م الصعيدي,Kiosks,31.164095,29.871326,2,core2_الدخيله,Rep 142,Sup 26,Presell,ABI,USM 13,Alex,RSM 3,1.00%
+Cs 713,س م زمزم,LG,31.164403,29.872323,3,core2_الدخيله,Rep 142,Sup 26,Presell,ABI,USM 13,Alex,RSM 3,1.25%
+Cs 714,03-احمد اسماعيل,SG,31.135575,29.783198,3,core3_البيطاش,Rep 143,Sup 26,Presell,ABI,USM 13,Alex,RSM 3,1.25%
+Cs 715,03-الانصارى ماركت,Kiosks,31.107694,29.784409,1,core3_البيطاش,Rep 143,Sup 26,Presell,ABI,USM 13,Alex,RSM 3,0.75%
+Cs 716,03-الحبيب(pL),LG,31.126403,29.781606,2,core3_البيطاش,Rep 143,Sup 26,Presell,ABI,USM 13,Alex,RSM 3,1.00%
+Cs 717,03-الفريد,SG,31.117218,29.786219,1,core3_البيطاش,Rep 143,Sup 26,Conv,ABI,USM 13,Alex,RSM 3,0.75%
+Cs 718,03-بقالة الاسراء,Kiosks,31.114408,29.78813,2,core3_البيطاش,Rep 143,Sup 26,Conv,ABI,USM 13,Alex,RSM 3,1.00%
+Cs 719,03-سلومة,SM,31.132841,29.783643,1,core3_البيطاش,Rep 143,Sup 26,Conv,ABI,USM 13,Alex,RSM 3,0.75%
+Cs 720,03-عزوز,LG,31.130384,29.777907,2,core3_البيطاش,Rep 143,Sup 26,Conv,ABI,USM 13,Alex,RSM 3,1.00%
+Cs 721,03-كوكى,SG,31.122931,29.789281,2,core3_البيطاش,Rep 143,Sup 26,Conv,ABI,USM 13,Alex,RSM 3,1.00%
+Cs 722,03-نور الهدى,Kiosks,31.126579,29.781605,3,core3_البيطاش,Rep 143,Sup 26,Presell,ABI,USM 13,Alex,RSM 3,1.25%
+Cs 723,03-أبو جمعه,SM,31.09695,29.768968,3,core4_المساكن,Rep 144,Sup 26,Presell,ABI,USM 13,Alex,RSM 3,1.25%
+Cs 724,03-الاحمدى,Kiosks,31.100884,29.77536,1,core4_المساكن,Rep 144,Sup 26,Presell,ABI,USM 13,Alex,RSM 3,0.75%
+Cs 725,03-السيد عبد الكريم,LG,31.102925,29.783537,2,core4_المساكن,Rep 144,Sup 26,Presell,ABI,USM 13,Alex,RSM 3,1.00%
+Cs 726,03-المدينة المنورة-S(pL),SG,31.108294,29.785191,1,core4_المساكن,Rep 144,Sup 26,Presell,ABI,USM 13,Alex,RSM 3,0.75%
+Cs 727,03-ماركت زغلول الصينية,Kiosks,31.094429,29.769905,1,core4_المساكن,Rep 144,Sup 26,Conv,ABI,USM 13,Alex,RSM 3,0.75%
+Cs 728,03-ابناء عيسى,LG,31.101235,29.767405,1,core5_الهانوفيل,Rep 145,Sup 26,Conv,ABI,USM 13,Alex,RSM 3,0.75%
+Cs 729,03-السورى(pL),SG,31.120121,29.768564,1,core5_الهانوفيل,Rep 145,Sup 26,Conv,ABI,USM 13,Alex,RSM 3,0.75%
+Cs 730,03-المهندس 2000,Kiosks,31.099824,29.7707,1,core5_الهانوفيل,Rep 145,Sup 26,Conv,ABI,USM 13,Alex,RSM 3,0.75%
+Cs 731,03-س.م الهيثم,SM,31.107345,29.751769,2,core5_الهانوفيل,Rep 145,Sup 26,Conv,ABI,USM 13,Alex,RSM 3,1.00%
+Cs 732,03-سعيد الرشيدى الزهراء,Kiosks,31.115782,29.765232,1,core5_الهانوفيل,Rep 145,Sup 26,Conv,ABI,USM 13,Alex,RSM 3,0.75%
+Cs 733,03-الاسيوطى,SM,31.085959,29.747597,2,core6_ابويوسف,Rep 146,Sup 26,Presell,ABI,USM 13,Alex,RSM 3,1.00%
+Cs 734,03-اولاد عمران,Kiosks,31.090904,29.756402,1,core6_ابويوسف,Rep 146,Sup 26,Presell,ABI,USM 13,Alex,RSM 3,0.75%
+Cs 735,03-توتة,LG,31.090311,29.756113,2,core6_ابويوسف,Rep 146,Sup 26,Presell,ABI,USM 13,Alex,RSM 3,1.00%
+Cs 736,03-قاصد كريم,SG,31.09326,29.760809,2,core6_ابويوسف,Rep 146,Sup 26,Presell,ABI,USM 13,Alex,RSM 3,1.00%
+Cs 737,03-قاصد كريم - المداخل,Kiosks,31.086895,29.749314,3,core6_ابويوسف,Rep 146,Sup 26,Presell,ABI,USM 13,Alex,RSM 3,1.25%
+Cs 738,س م تاج,LG,31.081395,29.739811,3,core6_ابويوسف,Rep 146,Sup 26,Presell,ABI,USM 13,Alex,RSM 3,1.25%
+Cs 739,03-المصطفى,SG,31.077981,29.737638,1,core7_مساكن ك 21,Rep 147,Sup 26,Presell,ABI,USM 13,Alex,RSM 3,0.75%
+Cs 740,03-النخيل 1,Kiosks,31.080442,29.737283,2,core7_مساكن ك 21,Rep 147,Sup 26,Conv,ABI,USM 13,Alex,RSM 3,1.00%
+Cs 741,03-مصطفي جادو,SG,31.080455,29.738094,1,core7_مساكن ك 21,Rep 147,Sup 26,Conv,ABI,USM 13,Alex,RSM 3,0.75%
+Cs 742,الجهيني,Kiosks,31.077783,29.738265,1,core7_مساكن ك 21,Rep 147,Sup 26,Conv,ABI,USM 13,Alex,RSM 3,0.75%
+Cs 743,03-الايمان,LG,31.087333,29.730179,1,core8_أكتوبر,Rep 148,Sup 26,Conv,ABI,USM 13,Alex,RSM 3,0.75%
+Cs 744,03-السعدنى(pL),SG,31.091952,29.731084,1,core8_أكتوبر,Rep 148,Sup 26,Conv,ABI,USM 13,Alex,RSM 3,0.75%
+Cs 745,03-السنابل,Kiosks,31.060948,29.704558,1,core9_أبوتلات,Rep 149,Sup 26,Presell,ABI,USM 13,Alex,RSM 3,0.75%
+Cs 746,03-الفيروز ماركت,SM,30.981631,29.578345,2,core9_أبوتلات,Rep 149,Sup 26,Presell,ABI,USM 13,Alex,RSM 3,1.00%
+Cs 747,03-سوق الفرج التجارى,Kiosks,31.060987,29.704069,1,core9_أبوتلات,Rep 149,Sup 26,Presell,ABI,USM 13,Alex,RSM 3,0.75%
+Cs 748,03-سوميد الجميعي,SM,31.053004,29.695382,2,core9_أبوتلات,Rep 149,Sup 26,Presell,ABI,USM 13,Alex,RSM 3,1.00%
+Cs 749,03-ماركت الصفا,Kiosks,31.061369,29.703992,2,core9_أبوتلات,Rep 149,Sup 26,Presell,ABI,USM 13,Alex,RSM 3,1.00%
+Cs 750,03-ميني ماركت الزهراء,LG,31.008484,29.62092,3,core9_أبوتلات,Rep 149,Sup 26,Conv,ABI,USM 13,Alex,RSM 3,1.25%
+Cs 751,مزايا,SG,30.845972,29.434369,3,core9_أبوتلات,Rep 149,Sup 26,Conv,ABI,USM 13,Alex,RSM 3,1.25%
+Cs 752,42-P-ابن البلد,Kiosks,31.296949,30.055316,1,42-Pre 36 ابوقير,Rep 150,Sup 27,Conv,East_Alex,USM 14,Alex,RSM 3,0.75%
+Cs 753,42-P-انور بيومى,SG,31.300761,30.056665,2,42-Pre 36 ابوقير,Rep 150,Sup 27,Conv,East_Alex,USM 14,Alex,RSM 3,1.00%
+Cs 754,42-P-رضوان,Kiosks,31.298233,30.064363,2,42-Pre 36 ابوقير,Rep 150,Sup 27,Conv,East_Alex,USM 14,Alex,RSM 3,1.00%
+Cs 755,42-P-زمزم,LG,31.314143,30.061444,1,42-Pre 36 ابوقير,Rep 150,Sup 27,Conv,East_Alex,USM 14,Alex,RSM 3,0.75%
+Cs 756,42-P-عباد الرحمن,SG,31.313917,30.062889,2,42-Pre 36 ابوقير,Rep 150,Sup 27,Presell,East_Alex,USM 14,Alex,RSM 3,1.00%
+Cs 757,42-P-كاوس,Kiosks,31.318398,30.061904,1,42-Pre 36 ابوقير,Rep 150,Sup 27,Presell,East_Alex,USM 14,Alex,RSM 3,0.75%
+Cs 758,42-P-الباشا,SM,31.273377,30.00136,2,42-Pre 38 المندرة بحري,Rep 151,Sup 27,Presell,East_Alex,USM 14,Alex,RSM 3,1.00%
+Cs 759,42-P-السلام 2,Kiosks,31.278465,30.010612,2,42-Pre 38 المندرة بحري,Rep 151,Sup 27,Presell,East_Alex,USM 14,Alex,RSM 3,1.00%
+Cs 760,42-P-الوردة,SM,31.274849,30.002826,3,42-Pre 38 المندرة بحري,Rep 151,Sup 27,Presell,East_Alex,USM 14,Alex,RSM 3,1.25%
+Cs 761,42-P-سعد الجمل السوق التجارى,Kiosks,31.279729,30.012999,3,42-Pre 38 المندرة بحري,Rep 151,Sup 27,Presell,East_Alex,USM 14,Alex,RSM 3,1.25%
+Cs 762,42-P-سوق المدينة,SM,31.278662,30.010878,1,42-Pre 38 المندرة بحري,Rep 151,Sup 27,Presell,East_Alex,USM 14,Alex,RSM 3,0.75%
+Cs 763,42-P-ليالى الحسين,Kiosks,31.279799,30.009752,2,42-Pre 38 المندرة بحري,Rep 151,Sup 27,Conv,East_Alex,USM 14,Alex,RSM 3,1.00%
+Cs 764,42-P-Red سوق رنا,LG,31.268498,29.999586,1,42-Pre 40 - بحري 45,Rep 152,Sup 27,Conv,East_Alex,USM 14,Alex,RSM 3,0.75%
+Cs 765,42-P-اسواق الشريف,SG,31.271567,30.003011,1,42-Pre 40 - بحري 45,Rep 152,Sup 27,Conv,East_Alex,USM 14,Alex,RSM 3,0.75%
+Cs 766,42-P-الروينى,Kiosks,31.266029,29.993471,1,42-Pre 40 - بحري 45,Rep 152,Sup 27,Conv,East_Alex,USM 14,Alex,RSM 3,0.75%
+Cs 767,42-P-دومة,LG,31.267901,29.99856,1,42-Pre 40 - بحري 45,Rep 152,Sup 27,Conv,East_Alex,USM 14,Alex,RSM 3,0.75%
+Cs 768,42-P-زياد,SG,31.267487,29.998805,1,42-Pre 40 - بحري 45,Rep 152,Sup 27,Presell,East_Alex,USM 14,Alex,RSM 3,0.75%
+Cs 769,42-P-قشطة,Kiosks,31.265536,29.997174,2,42-Pre 40 - بحري 45,Rep 152,Sup 27,Presell,East_Alex,USM 14,Alex,RSM 3,1.00%
+Cs 770,42-P-الخالدية,SM,31.263543,29.991794,1,42-Pre 41 ميامي,Rep 153,Sup 27,Presell,East_Alex,USM 14,Alex,RSM 3,0.75%
+Cs 771,42-P-الفرسان,LG,31.268726,29.991186,2,42-Pre 41 ميامي,Rep 153,Sup 27,Presell,East_Alex,USM 14,Alex,RSM 3,1.00%
+Cs 772,42-P-بشرة خير,SG,31.265155,29.992207,2,42-Pre 41 ميامي,Rep 153,Sup 27,Presell,East_Alex,USM 14,Alex,RSM 3,1.00%
+Cs 773,42-P-خفاجة,Kiosks,31.264042,29.993458,3,42-Pre 41 ميامي,Rep 153,Sup 27,Conv,East_Alex,USM 14,Alex,RSM 3,1.25%
+Cs 774,42-P-رودى ماركت,SM,31.265186,29.993515,3,42-Pre 41 ميامي,Rep 153,Sup 27,Conv,East_Alex,USM 14,Alex,RSM 3,1.25%
+Cs 775,42-P-مؤسسة على,Kiosks,31.270655,29.994653,1,42-Pre 41 ميامي,Rep 153,Sup 27,Conv,East_Alex,USM 14,Alex,RSM 3,0.75%
+Cs 776,42-P-ميامى,LG,31.268808,29.994507,2,42-Pre 41 ميامي,Rep 153,Sup 27,Conv,East_Alex,USM 14,Alex,RSM 3,1.00%
+Cs 777,42-P-ميامي,SG,31.266554,29.988793,1,42-Pre 41 ميامي,Rep 153,Sup 27,Conv,East_Alex,USM 14,Alex,RSM 3,0.75%
+Cs 778,42-P-خليل الحلوانى,Kiosks,31.262638,29.986188,2,42-Pre 45 خالد بن الوليد,Rep 154,Sup 27,Conv,East_Alex,USM 14,Alex,RSM 3,1.00%
+Cs 779,42-P-سراى,LG,31.251304,29.97436,1,42-Pre 45 خالد بن الوليد,Rep 154,Sup 27,Presell,East_Alex,USM 14,Alex,RSM 3,0.75%
+Cs 780,42-P-سمايا ماركت,SG,31.259866,29.984437,1,42-Pre 45 خالد بن الوليد,Rep 154,Sup 27,Presell,East_Alex,USM 14,Alex,RSM 3,0.75%
+Cs 781,42-P-على كيفك,Kiosks,31.265089,29.988238,1,42-Pre 45 خالد بن الوليد,Rep 154,Sup 27,Presell,East_Alex,USM 14,Alex,RSM 3,0.75%
+Cs 782,42-P-قناوى,SM,31.265042,29.988249,1,42-Pre 45 خالد بن الوليد,Rep 154,Sup 27,Presell,East_Alex,USM 14,Alex,RSM 3,0.75%
+Cs 783,42-P-مكة جملة ماركت,Kiosks,31.26408,29.990054,1,42-Pre 45 خالد بن الوليد,Rep 154,Sup 27,Presell,East_Alex,USM 14,Alex,RSM 3,0.75%
+Cs 784,42-P-الروينى,SM,31.253387,29.981753,2,42-Pre 46 محمد نجيب,Rep 155,Sup 27,Presell,East_Alex,USM 14,Alex,RSM 3,1.00%
+Cs 785,42-P-عوض يحيى,Kiosks,31.244824,29.980997,1,42-Pre 46 محمد نجيب,Rep 155,Sup 27,Presell,East_Alex,USM 14,Alex,RSM 3,0.75%
+Cs 786,42-P-عينو,LG,31.259163,29.98635,2,42-Pre 46 محمد نجيب,Rep 155,Sup 27,Conv,East_Alex,USM 14,Alex,RSM 3,1.00%
+Cs 787,42-P-فيكتوريا,SG,31.249584,29.980269,1,42-Pre 46 محمد نجيب,Rep 155,Sup 27,Conv,East_Alex,USM 14,Alex,RSM 3,0.75%
+Cs 788,42-P-اسواق الامل,Kiosks,31.254993,29.985389,2,42-Pre 48 الملك حفني,Rep 156,Sup 27,Conv,East_Alex,USM 14,Alex,RSM 3,1.00%
+Cs 789,42-P-الصقر,LG,31.262745,29.996169,2,42-Pre 48 الملك حفني,Rep 156,Sup 27,Conv,East_Alex,USM 14,Alex,RSM 3,1.00%
+Cs 790,42-P-مصباح,SG,31.256868,29.991181,3,42-Pre 48 الملك حفني,Rep 156,Sup 27,Conv,East_Alex,USM 14,Alex,RSM 3,1.25%
+Cs 791,42-P-الاشراف,Kiosks,31.24238,29.994067,3,42-Pre 51 السيوف,Rep 157,Sup 28,Presell,East_Alex,USM 14,Alex,RSM 3,1.25%
+Cs 792,42-P-الجزيرة,SG,31.240945,29.995147,1,42-Pre 51 السيوف,Rep 157,Sup 28,Presell,East_Alex,USM 14,Alex,RSM 3,0.75%
+Cs 793,42-P-الزهراء,Kiosks,31.242494,29.984942,2,42-Pre 51 السيوف,Rep 157,Sup 28,Presell,East_Alex,USM 14,Alex,RSM 3,1.00%
+Cs 794,42-P-المجاهد,LG,31.238259,29.993403,1,42-Pre 51 السيوف,Rep 157,Sup 28,Presell,East_Alex,USM 14,Alex,RSM 3,0.75%
+Cs 795,42-P-المدينة المنورة الساعة,SG,31.243019,29.984601,1,42-Pre 51 السيوف,Rep 157,Sup 28,Presell,East_Alex,USM 14,Alex,RSM 3,0.75%
+Cs 796,42-P-جروسرى,Kiosks,31.239895,29.997505,1,42-Pre 51 السيوف,Rep 157,Sup 28,Conv,East_Alex,USM 14,Alex,RSM 3,0.75%
+Cs 797,42-P-زهراء السيوف,SM,31.241333,29.997999,1,42-Pre 51 السيوف,Rep 157,Sup 28,Conv,East_Alex,USM 14,Alex,RSM 3,0.75%
+Cs 798,42-P-مصباح,Kiosks,31.240592,29.987853,1,42-Pre 51 السيوف,Rep 157,Sup 28,Conv,East_Alex,USM 14,Alex,RSM 3,0.75%
+Cs 799,42-P-الشيخ,SM,31.254029,29.995653,2,42-Pre 53 سيدي بشر قبلي,Rep 158,Sup 28,Conv,East_Alex,USM 14,Alex,RSM 3,1.00%
+Cs 800,42-P-العباسى,Kiosks,31.25316,29.997399,2,42-Pre 53 سيدي بشر قبلي,Rep 158,Sup 28,Conv,East_Alex,USM 14,Alex,RSM 3,1.00%
+Cs 801,42-P-البركة,LG,31.2543,29.999358,3,42-Pre 54 القاهرة,Rep 159,Sup 28,Conv,East_Alex,USM 14,Alex,RSM 3,1.25%
+Cs 802,42-P-العربي,SG,31.25545,30.004141,3,42-Pre 54 القاهرة,Rep 159,Sup 28,Presell,East_Alex,USM 14,Alex,RSM 3,1.25%
+Cs 803,42-P-سوق المدينة,Kiosks,31.256,29.996249,1,42-Pre 54 القاهرة,Rep 159,Sup 28,Presell,East_Alex,USM 14,Alex,RSM 3,0.75%
+Cs 804,42-P-المدينة المنورة,SG,31.263499,30.001033,2,42-Pre 57 سوق الثلاثين,Rep 160,Sup 28,Presell,East_Alex,USM 14,Alex,RSM 3,1.00%
+Cs 805,42-P-بازار الطيب,Kiosks,31.267757,30.025171,1,42-Pre 57 سوق الثلاثين,Rep 160,Sup 28,Presell,East_Alex,USM 14,Alex,RSM 3,0.75%
+Cs 806,42-P-رزق,LG,31.255219,30.012915,1,42-Pre 57 سوق الثلاثين,Rep 160,Sup 28,Presell,East_Alex,USM 14,Alex,RSM 3,0.75%
+Cs 807,42-P-ميدو,SG,31.262037,30.001804,1,42-Pre 57 سوق الثلاثين,Rep 160,Sup 28,Presell,East_Alex,USM 14,Alex,RSM 3,0.75%
+Cs 808,42-P-البان الشيخ,Kiosks,31.275574,30.017954,1,42-Pre 60 المندرة قبلي,Rep 161,Sup 28,Presell,East_Alex,USM 14,Alex,RSM 3,0.75%
+Cs 809,42-P-الروينى,SM,31.265317,30.003919,1,42-Pre 60 المندرة قبلي,Rep 161,Sup 28,Conv,East_Alex,USM 14,Alex,RSM 3,0.75%
+Cs 810,42-P-المختار,Kiosks,31.270206,30.023475,2,42-Pre 60 المندرة قبلي,Rep 161,Sup 28,Conv,East_Alex,USM 14,Alex,RSM 3,1.00%
+Cs 811,42-P-بازار اللؤلؤة,SM,31.269884,30.007519,1,42-Pre 60 المندرة قبلي,Rep 161,Sup 28,Conv,East_Alex,USM 14,Alex,RSM 3,0.75%
+Cs 812,42-P-بلال,Kiosks,31.279342,30.016121,2,42-Pre 60 المندرة قبلي,Rep 161,Sup 28,Conv,East_Alex,USM 14,Alex,RSM 3,1.00%
+Cs 813,42-P-عبدة الامانة,SM,31.273953,30.018436,2,42-Pre 60 المندرة قبلي,Rep 161,Sup 28,Conv,East_Alex,USM 14,Alex,RSM 3,1.00%
+Cs 814,42-P-مصباح المندرة,Kiosks,31.270526,30.006326,3,42-Pre 60 المندرة قبلي,Rep 161,Sup 28,Presell,East_Alex,USM 14,Alex,RSM 3,1.25%
+Cs 815,42-P-مكة,LG,31.263298,30.012587,3,42-Pre 60 المندرة قبلي,Rep 161,Sup 28,Presell,East_Alex,USM 14,Alex,RSM 3,1.25%
+Cs 816,05- عقد شبيك لبيك ( 23 يوليو,SG,30.7934,31.17042,1,23 يوليو,Rep 162,Sup 29,Presell,Tanta,USM 15,Delta,RSM 4,0.75%
+Cs 817,05-G  كافيار,Kiosks,30.7917,31.17544,2,23 يوليو,Rep 162,Sup 29,Presell,Tanta,USM 15,Delta,RSM 4,1.00%
+Cs 818,05-G عقد العثيم,LG,30.81026,30.99637,1,الاستاد,Rep 163,Sup 29,Presell,Tanta,USM 15,Delta,RSM 4,0.75%
+Cs 819,05-ماركت اليمامه,SG,30.77218,30.99507,2,الاستاد,Rep 163,Sup 29,Conv,Tanta,USM 15,Delta,RSM 4,1.00%
+Cs 820,05- ريهام البرماوى ( اسواق خاصه,Kiosks,30.7966,31.0068,1,الجامعه,Rep 164,Sup 29,Conv,Tanta,USM 15,Delta,RSM 4,0.75%
+Cs 821,05- هايبر اولاد متولى,SM,30.7719,31.0039,1,الجامعه,Rep 164,Sup 29,Conv,Tanta,USM 15,Delta,RSM 4,0.75%
+Cs 822,05-G السلام ماركت,LG,30.79284,31.004,1,الجامعه,Rep 164,Sup 29,Conv,Tanta,USM 15,Delta,RSM 4,0.75%
+Cs 823,05-عقد أسواق المنشاوى,SG,30.78945,31.0073,1,الجامعه,Rep 164,Sup 29,Conv,Tanta,USM 15,Delta,RSM 4,0.75%
+Cs 824,05-S  المرلى,Kiosks,30.77218,30.99205,1,الحكمه,Rep 165,Sup 29,Conv,Tanta,USM 15,Delta,RSM 4,0.75%
+Cs 825,05-G السنطاوى,SM,30.79416,31.11849,2,السنطه,Rep 166,Sup 29,Presell,Tanta,USM 15,Delta,RSM 4,1.00%
+Cs 826,05- سوكال ( العجيزى,Kiosks,30.7956,30.99598,1,العجيزى,Rep 167,Sup 29,Presell,Tanta,USM 15,Delta,RSM 4,0.75%
+Cs 827, مالك ماركت,LG,30.8015,30.99166,2,الفاتح,Rep 168,Sup 30,Presell,Tanta,USM 15,Delta,RSM 4,1.00%
+Cs 828,05- ماركت المصريين ( الفاتح,SG,30.7226,30.98422,1,الفاتح,Rep 168,Sup 30,Presell,Tanta,USM 15,Delta,RSM 4,0.75%
+Cs 829,05- هايبر باندا ( الفاتح,Kiosks,30.7205,30.98333,2,الفاتح,Rep 168,Sup 30,Presell,Tanta,USM 15,Delta,RSM 4,1.00%
+Cs 830,05- الغايش 2 ( النادى,LG,30.97656,30.98622,2,النادى 2,Rep 169,Sup 30,Presell,Tanta,USM 15,Delta,RSM 4,1.00%
+Cs 831,05-ماركت السلام 2,SG,30.7956,30.99149,3,النادى,Rep 170,Sup 30,Presell,Tanta,USM 15,Delta,RSM 4,1.25%
+Cs 832,05- برديسى (اسواق خاصه,Kiosks,30.9757,31.0039,3,بطرس,Rep 171,Sup 30,Conv,Tanta,USM 15,Delta,RSM 4,1.25%
+Cs 833,05- نور الدين(زفتى2,SM,30.8021,31.2451,1,زفتى 2,Rep 172,Sup 30,Conv,Tanta,USM 15,Delta,RSM 4,0.75%
+Cs 834,05-اسواق الروضه(زفتى2,Kiosks,30.7205,31.2418,2,زفتى 2,Rep 172,Sup 30,Conv,Tanta,USM 15,Delta,RSM 4,1.00%
+Cs 835,05-G  الغايش 2,SM,30.82102,31.0106,1,سعيد,Rep 173,Sup 31,Conv,Tanta,USM 15,Delta,RSM 4,0.75%
+Cs 836,05- عقد مرحبا,Kiosks,30.8255,31.17312,1,شكرى القوتلى,Rep 174,Sup 31,Conv,Tanta,USM 15,Delta,RSM 4,0.75%
+Cs 837,05-ميجا سنتر (شكرى لبقوتلى,LG,30.7107,31.18635,1,شكرى القوتلى,Rep 174,Sup 31,Presell,Tanta,USM 15,Delta,RSM 4,0.75%
+Cs 838,05-G المهندس,SG,30.8021,30.9997,1,قحافه,Rep 175,Sup 31,Presell,Tanta,USM 15,Delta,RSM 4,0.75%
+Cs 839,05-G-عقد السيسى ماركت1,Kiosks,30.82102,30.81714,2,كفر الزيات 1,Rep 176,Sup 31,Presell,Tanta,USM 15,Delta,RSM 4,1.00%
+Cs 840,05-G-عقد السيسى ماركت2,LG,30.8255,30.8122,3,كفر الزيات 1,Rep 176,Sup 31,Presell,Tanta,USM 15,Delta,RSM 4,1.25%
+Cs 841,05-هايبر الدلتا,SG,30.7107,31.2384,3,كفر عنان,Rep 177,Sup 31,Presell,Tanta,USM 15,Delta,RSM 4,1.25%
+Cs 842,06-هيثم السبع,Kiosks,31.03717,31.3909,1,المختلط,Rep 178,Sup 32,Conv,Mansoura ,USM 16,Delta,RSM 4,0.75%
+Cs 843,06-اسواق المزرعه,SG,31.05866,31.40582,2,جديله,Rep 179,Sup 32,Conv,Mansoura ,USM 16,Delta,RSM 4,1.00%
+Cs 844,06-اسواق شبانة,Kiosks,31.03921,31.40583,2,جديله,Rep 179,Sup 32,Conv,Mansoura ,USM 16,Delta,RSM 4,1.00%
+Cs 845,06-خطي الحبيب ماركت,LG,31.03535,31.40393,3,جديله,Rep 179,Sup 32,Conv,Mansoura ,USM 16,Delta,RSM 4,1.25%
+Cs 846,06-ماركت الرضوان,SG,31.0339,31.4039,3,جديله,Rep 179,Sup 32,Conv,Mansoura ,USM 16,Delta,RSM 4,1.25%
+Cs 847,06-س.م عباد الرحمن,Kiosks,31.0328,31.35699,1,ش البحر,Rep 180,Sup 32,Conv,Mansoura ,USM 16,Delta,RSM 4,0.75%
+Cs 848,06-اسواق الرحمة مشعل,SM,31.0328,31.37871,2,ش بورسعيد,Rep 181,Sup 32,Presell,Mansoura ,USM 16,Delta,RSM 4,1.00%
+Cs 849,06-ماركت النقيطي,Kiosks,31.0351,31.37943,1,ش بورسعيد,Rep 181,Sup 32,Presell,Mansoura ,USM 16,Delta,RSM 4,0.75%
+Cs 850,06-السعيد ابو ريه,SM,31.05225,31.3587,2,شارع الترعه,Rep 182,Sup 32,Presell,Mansoura ,USM 16,Delta,RSM 4,1.00%
+Cs 851,06-مول باندا,Kiosks,31.0558,31.3642,2,شارع الترعه,Rep 182,Sup 32,Presell,Mansoura ,USM 16,Delta,RSM 4,1.00%
+Cs 852,06-الربيع,LG,30.588873,31.3987,3,عزبة الشال,Rep 183,Sup 33,Presell,Mansoura ,USM 16,Delta,RSM 4,1.25%
+Cs 853,06-الطازج,SG,30.588293,31.3965,3,عزبة الشال,Rep 183,Sup 33,Presell,Mansoura ,USM 16,Delta,RSM 4,1.25%
+Cs 854,06-ماركت النيل,Kiosks,30.586576,31.3968,1,عزبة الشال,Rep 183,Sup 33,Presell,Mansoura ,USM 16,Delta,RSM 4,0.75%
+Cs 855,06-سوبر ماركت المنى,SG,30.589222,31.39076,2,عزبة عقل,Rep 184,Sup 33,Conv,Mansoura ,USM 16,Delta,RSM 4,1.00%
+Cs 856,06-ماركت العمدة,Kiosks,30.590984,31.40528,1,كفر البدماص,Rep 185,Sup 33,Conv,Mansoura ,USM 16,Delta,RSM 4,0.75%
+Cs 857,06-هايبر الدالى,LG,30.710249,31.3825,2,يمين طلخا,Rep 186,Sup 33,Conv,Mansoura ,USM 16,Delta,RSM 4,1.00%
+Cs 858,07-الحرية,SG,30.720217,31.501893,1, 3 القومية,Rep 187,Sup 34,Conv,Zagazig,USM 17,Delta,RSM 4,0.75%
+Cs 859,07-الكورنيش ماركت,Kiosks,30.719912,31.50225,2, 3 القومية,Rep 187,Sup 34,Conv,Zagazig,USM 17,Delta,RSM 4,1.00%
+Cs 860,07-س م الهلالي,SM,30.718082,31.500822,2, 3 القومية,Rep 187,Sup 34,Presell,Zagazig,USM 17,Delta,RSM 4,1.00%
+Cs 861,07-مركاتو الطوخي هايبر ماركت,Kiosks,30.588748,31.501045,3, 3 القومية,Rep 187,Sup 34,Presell,Zagazig,USM 17,Delta,RSM 4,1.25%
+Cs 862,07-هايبر السلام,SM,30.590651,31.474314,3, 3 القومية,Rep 187,Sup 34,Presell,Zagazig,USM 17,Delta,RSM 4,1.25%
+Cs 863,07-اسواق المدينة,Kiosks,30.710249,31.258633,1, ميت غمرب,Rep 188,Sup 34,Presell,Zagazig,USM 17,Delta,RSM 4,0.75%
+Cs 864,07-اسواق ميت غمر 2,SM,30.585908,31.254857,2, ميت غمرب,Rep 188,Sup 34,Presell,Zagazig,USM 17,Delta,RSM 4,1.00%
+Cs 865,07-ماركت العبور,Kiosks,30.585921,31.254634,1, ميت غمرب,Rep 188,Sup 34,Conv,Zagazig,USM 17,Delta,RSM 4,0.75%
+Cs 866,07-مصر والسودان ميت غمر,LG,30.599395,31.249565,1, ميت غمرب,Rep 188,Sup 34,Conv,Zagazig,USM 17,Delta,RSM 4,0.75%
+Cs 867,07-س م ABC,SG,30.591472,31.486856,1,07-الجامعة,Rep 189,Sup 34,Conv,Zagazig,USM 17,Delta,RSM 4,0.75%
+Cs 868,07-س م بيتي,Kiosks,30.592268,31.485785,1,07-الجامعة,Rep 189,Sup 34,Conv,Zagazig,USM 17,Delta,RSM 4,0.75%
+Cs 869,07-الصالحية ماركت,LG,30.596431,31.508273,1,07-س م الجلاء والمنتزة,Rep 190,Sup 34,Conv,Zagazig,USM 17,Delta,RSM 4,0.75%
+Cs 870,07-س.م عالم ماركت,SG,30.589564,31.503831,2,07-س م الجلاء والمنتزة,Rep 190,Sup 34,Conv,Zagazig,USM 17,Delta,RSM 4,1.00%
+Cs 871,07-عالم ماركت2,Kiosks,30.592006,31.490351,1,07-س م الجلاء والمنتزة,Rep 190,Sup 34,Presell,Zagazig,USM 17,Delta,RSM 4,0.75%
+Cs 872,07-A2Z هايبر,SM,30.588811,31.493415,2,07-س م الزقازيق,Rep 191,Sup 34,Presell,Zagazig,USM 17,Delta,RSM 4,1.00%
+Cs 873,07-ابو احمد 3,LG,30.582843,31.487101,1,07-س م الزقازيق,Rep 191,Sup 34,Presell,Zagazig,USM 17,Delta,RSM 4,0.75%
+Cs 874,07-البارونA2Z هايبر,SG,30.593127,31.498991,2,07-س م الزقازيق,Rep 191,Sup 34,Presell,Zagazig,USM 17,Delta,RSM 4,1.00%
+Cs 875,07-الحبيب ماركت,Kiosks,30.591384,31.494352,2,07-س م الزقازيق,Rep 191,Sup 34,Presell,Zagazig,USM 17,Delta,RSM 4,1.00%
+Cs 876,07-ام القري,SM,30.590999,31.495095,3,07-س م الزقازيق,Rep 191,Sup 34,Presell,Zagazig,USM 17,Delta,RSM 4,1.25%
+Cs 877,07-س م ارض الخيرات,Kiosks,30.580958,31.497297,3,07-س م الزقازيق,Rep 191,Sup 34,Presell,Zagazig,USM 17,Delta,RSM 4,1.25%
+Cs 878,07-س م السوق امركزي,LG,30.596175,31.497609,1,07-س م الزقازيق,Rep 191,Sup 34,Conv,Zagazig,USM 17,Delta,RSM 4,0.75%
+Cs 879,07-س.م ابو احمد 5,SG,30.5868,31.490649,2,07-س م الزقازيق,Rep 191,Sup 34,Conv,Zagazig,USM 17,Delta,RSM 4,1.00%
+Cs 880,07-س.م الحياه,Kiosks,30.584319,31.49056,1,07-س م الزقازيق,Rep 191,Sup 34,Conv,Zagazig,USM 17,Delta,RSM 4,0.75%
+Cs 881,07-س.م نيو فتح الله,LG,30.590482,31.494799,1,07-س م الزقازيق,Rep 191,Sup 34,Conv,Zagazig,USM 17,Delta,RSM 4,0.75%
+Cs 882,07-ماركت a2z 3,SG,30.589298,31.496985,1,07-س م الزقازيق,Rep 191,Sup 34,Conv,Zagazig,USM 17,Delta,RSM 4,0.75%
+Cs 883,07-ماركت أبو أحمد_1,Kiosks,30.580958,31.517344,1,07-س م الزقازيق,Rep 191,Sup 34,Presell,Zagazig,USM 17,Delta,RSM 4,0.75%
+Cs 884,07-ماركت أبو أحمد_2,SM,30.580475,31.49636,1,07-س م الزقازيق,Rep 191,Sup 34,Presell,Zagazig,USM 17,Delta,RSM 4,0.75%
+Cs 885,07-ماركت ابوخليفه,Kiosks,30.5868,31.500287,2,07-س م الزقازيق,Rep 191,Sup 34,Presell,Zagazig,USM 17,Delta,RSM 4,1.00%
+Cs 886,07-ماركت التوحيد,SM,30.584319,31.496137,1,07-س م الزقازيق,Rep 191,Sup 34,Presell,Zagazig,USM 17,Delta,RSM 4,0.75%
+Cs 887,07-ماركت الروضة,Kiosks,30.590482,31.494397,2,07-س م الزقازيق,Rep 191,Sup 34,Presell,Zagazig,USM 17,Delta,RSM 4,1.00%
+Cs 888,س.م باندا07,LG,30.589298,31.494866,2,07-س م الزقازيق,Rep 191,Sup 34,Conv,Zagazig,USM 17,Delta,RSM 4,1.00%
+Cs 889,07-س.م سلسبيل,SG,30.580475,31.506845,3,07-س م شارع فاروق والزراعة,Rep 192,Sup 35,Conv,Zagazig,USM 17,Delta,RSM 4,1.25%
+Cs 890,07-الصفوة مول,Kiosks,30.522083,31.350187,3,07-منافذ منيا القمح,Rep 193,Sup 35,Conv,Zagazig,USM 17,Delta,RSM 4,1.25%
+Cs 891,07-زريق جمله ماركت,LG,30.521802,31.349651,1,07-منافذ منيا القمح,Rep 193,Sup 35,Conv,Zagazig,USM 17,Delta,RSM 4,0.75%
+Cs 892,07-هايبر ابو بدير,SG,30.714982,31.351132,2,07-منافذ منيا القمح,Rep 193,Sup 35,Conv,Zagazig,USM 17,Delta,RSM 4,1.00%
+Cs 893,07-هايبر ابو بدير2,Kiosks,30.718506,31.341609,2,07-منافذ منيا القمح,Rep 193,Sup 35,Conv,Zagazig,USM 17,Delta,RSM 4,1.00%
+Cs 894,07-هايبر ابو بدير3,SG,30.721725,31.350098,1,07-منافذ منيا القمح,Rep 193,Sup 35,Presell,Zagazig,USM 17,Delta,RSM 4,0.75%
+Cs 895,07-هايبر ابو عمر 1,Kiosks,30.519335,31.353225,2,07-منافذ منيا القمح,Rep 193,Sup 35,Presell,Zagazig,USM 17,Delta,RSM 4,1.00%
+Cs 896,07-هايبر ابو عمر 2,LG,30.522083,31.347775,1,07-منافذ منيا القمح,Rep 193,Sup 35,Presell,Zagazig,USM 17,Delta,RSM 4,0.75%
+Cs 897,07-هايبر الصياد,SG,30.521802,31.348221,2,07-منافذ منيا القمح,Rep 193,Sup 35,Presell,Zagazig,USM 17,Delta,RSM 4,1.00%
+Cs 898,07-اسواق بطوط,Kiosks,30.714982,31.259328,2,07-منافذ ميت غمر,Rep 194,Sup 35,Presell,Zagazig,USM 17,Delta,RSM 4,1.00%
+Cs 899,07-اسواق ميت غمر 1,SM,30.718506,31.259909,3,07-منافذ ميت غمر,Rep 194,Sup 35,Presell,Zagazig,USM 17,Delta,RSM 4,1.25%
+Cs 900,07-س م فريندز,Kiosks,30.721725,31.253292,3,07-منافذ ميت غمر,Rep 194,Sup 35,Presell,Zagazig,USM 17,Delta,RSM 4,1.25%
+Cs 901,44-SB الجيلانى ماركت,SM,30.5499,31.0079,1, الجلاء البحرى,Rep 195,Sup 36,Conv,Shebin El Kom,USM 18,Delta,RSM 4,0.75%
+Cs 902,44-SB بشاير الخير,Kiosks,30.5513,31.0084,2, الجلاء البحرى,Rep 195,Sup 36,Conv,Shebin El Kom,USM 18,Delta,RSM 4,1.00%
+Cs 903,44-SB دلتا ماركت,LG,30.5497,31.0121,1, الجلاء البحرى,Rep 195,Sup 36,Conv,Shebin El Kom,USM 18,Delta,RSM 4,0.75%
+Cs 904,44-SB سما ماركت,SG,30.5631,31.0098,1, الجلاء البحرى,Rep 195,Sup 36,Conv,Shebin El Kom,USM 18,Delta,RSM 4,0.75%
+Cs 905,44-SB هايبر الاسلامية,Kiosks,30.5388,31.0074,1, الجلاء البحرى,Rep 195,Sup 36,Conv,Shebin El Kom,USM 18,Delta,RSM 4,0.75%
+Cs 906,44-SB اسواق ياسمين,SG,30.5501,31.0181,1, شبين شرق2,Rep 196,Sup 36,Presell,Shebin El Kom,USM 18,Delta,RSM 4,0.75%
+Cs 907,44-SB السرايا ماركت,Kiosks,30.5418,31.0183,1, شبين شرق2,Rep 196,Sup 36,Presell,Shebin El Kom,USM 18,Delta,RSM 4,0.75%
+Cs 908,44-SB بندة ماركت,LG,30.5513,31.0123,2, شبين شرق2,Rep 196,Sup 36,Presell,Shebin El Kom,USM 18,Delta,RSM 4,1.00%
+Cs 909,44-SB مترو شبين,SG,30.5685,31.0122,1, شبين شرق2,Rep 196,Sup 36,Presell,Shebin El Kom,USM 18,Delta,RSM 4,0.75%
+Cs 910,44-SB هيبر الطيبات,Kiosks,30.5599,31.0135,2, شبين شرق2,Rep 196,Sup 36,Presell,Shebin El Kom,USM 18,Delta,RSM 4,1.00%
+Cs 911,44-SB هيبر خير بلدنا,SM,30.5595,31.0119,2, شبين شرق2,Rep 196,Sup 36,Conv,Shebin El Kom,USM 18,Delta,RSM 4,1.00%
+Cs 912,44-SB وكالة الكوثر,Kiosks,30.5462,31.0132,3, شبين شرق2,Rep 196,Sup 36,Conv,Shebin El Kom,USM 18,Delta,RSM 4,1.25%
+Cs 913,44-SB  هيبر ماركاتو,SM,30.5685,31.0037,3, شبين غرب2,Rep 197,Sup 37,Conv,Shebin El Kom,USM 18,Delta,RSM 4,1.25%
+Cs 914,44-SB بشاير الخير ابو علم,Kiosks,30.5625,31.0041,1, شبين غرب2,Rep 197,Sup 37,Conv,Shebin El Kom,USM 18,Delta,RSM 4,0.75%
+Cs 915,44-SB الاسلامية 2,SM,30.5599,31.0066,2, شبين غرب3,Rep 198,Sup 37,Conv,Shebin El Kom,USM 18,Delta,RSM 4,1.00%
+Cs 916,44-SB جلهوم 1@2,Kiosks,30.5595,31.0078,1, شبين غرب3,Rep 198,Sup 37,Conv,Shebin El Kom,USM 18,Delta,RSM 4,0.75%
+Cs 917,44-SB س. م البكرى,LG,30.5462,31.0108,2, شبين غرب3,Rep 198,Sup 37,Presell,Shebin El Kom,USM 18,Delta,RSM 4,1.00%
+Cs 918,44-SB هيبر وسط البلد,SG,30.5573,31.0104,1, شبين غرب3,Rep 198,Sup 37,Presell,Shebin El Kom,USM 18,Delta,RSM 4,0.75%
+Cs 1068,45-اسواق العابد,SM,30.073045,31.244819,2,45-PRE_GPXش شبرا,Rep 93,Sup 18,Presell,45-Shobra,USM 9,Giza,RSM 2,1.00%
+Cs 1069,54-15-الشاعر-المتميز,Kiosks,29.98644,30.979263,1,المتميز,Rep 104,Sup 20,Presell,54-6 October,USM 10,Giza,RSM 2,0.75%
+Cs 1070,54-H-التقوي-السادس 3,LG,29.94176,30.93322,2,Pre-السادس3,Rep 233,Sup 19,Presell,54-6 October,USM 10,Giza,RSM 2,1.00%
+Cs 1071,54-SCH-H-الكلاوى-الحى الاول,SG,29.968623,30.946369,2,شويبس-5,Rep 234,Sup 20,Presell,54-6 October,USM 10,Giza,RSM 2,1.00%
+Cs 1072,54-H-SCH-الهنى-الاردنية,Kiosks,29.980298,30.942123,3,شويبس-4,Rep 235,Sup 20,Conv,54-6 October,USM 10,Giza,RSM 2,1.25%
+Cs 1073,54-H-16-الفايدى -الثالث,LG,29.964715,30.938798,3,الحي الثالث,Rep 99,Sup 19,Conv,54-6 October,USM 10,Giza,RSM 2,1.25%

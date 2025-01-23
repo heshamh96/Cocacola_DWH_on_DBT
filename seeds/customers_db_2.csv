@@ -1,0 +1,147 @@
+﻿Customer Code,Customer name,Customer Channel type, X Axis , Y Axis ,Number of Doors,Route,Rep name,Supervisor name,Service Channel,Depot,USM name,Region,RSM,Discount
+Cs 919,الجهاد,Kiosks, 29.97607170 , 32.54994233 ,1,8- Pre الاربعين,Rep 199,Sup 38,Presell,Suez,USM 19,Canal Zone,RSM 5,0.75%
+Cs 920,الشيخ عبد الباسط,LG, 29.97611725 , 32.55335709 ,1,8- Pre الاربعين,Rep 199,Sup 38,Presell,Suez,USM 19,Canal Zone,RSM 5,0.75%
+Cs 921,بقالة نجيب,SG, 29.97575370 , 32.55410595 ,1,8- Pre الاربعين,Rep 199,Sup 38,Presell,Suez,USM 19,Canal Zone,RSM 5,0.75%
+Cs 922,سوبر ماركت الهادي الثورة,Kiosks, 29.96917143 , 32.55363075 ,1,8- Pre الاربعين,Rep 199,Sup 38,Presell,Suez,USM 19,Canal Zone,RSM 5,0.75%
+Cs 923,مازن,SM, 29.97045127 , 32.55353702 ,2,8- Pre الاربعين,Rep 199,Sup 38,Presell,Suez,USM 19,Canal Zone,RSM 5,1.00%
+Cs 924,النيروز,LG, 29.97739511 , 32.52300777 ,1,8- Pre الصباح,Rep 200,Sup 38,Conv,Suez,USM 19,Canal Zone,RSM 5,0.75%
+Cs 925,المصري,SG, 29.98747915 , 32.52944578 ,2,8- Pre الصباح,Rep 200,Sup 38,Conv,Suez,USM 19,Canal Zone,RSM 5,1.00%
+Cs 926,الملكه,Kiosks, 29.97715510 , 32.51188398 ,1,8- Pre الصباح,Rep 200,Sup 38,Conv,Suez,USM 19,Canal Zone,RSM 5,0.75%
+Cs 927,فوستر,SM, 29.97657810 , 32.52320242 ,2,8- Pre الصباح,Rep 200,Sup 38,Conv,Suez,USM 19,Canal Zone,RSM 5,1.00%
+Cs 928, سوبر ماركت الحلواني,Kiosks, 29.96563892 , 32.54122040 ,2,8- Pre المحروسة,Rep 201,Sup 38,Conv,Suez,USM 19,Canal Zone,RSM 5,1.00%
+Cs 929,سوبرماركت ثمرة التوحيد 2 الملاحة2,LG, 29.96538636 , 32.54097903 ,3,8- Pre المحروسة,Rep 201,Sup 38,Presell,Suez,USM 19,Canal Zone,RSM 5,1.25%
+Cs 930,عمو الشيخ,SG, 29.97066005 , 32.51534892 ,3,8- Pre المحروسة,Rep 201,Sup 38,Presell,Suez,USM 19,Canal Zone,RSM 5,1.25%
+Cs 931,اسواق الفتح,Kiosks, 29.96465082 , 32.52628506 ,1,8- Pre المحروسة,Rep 201,Sup 38,Presell,Suez,USM 19,Canal Zone,RSM 5,0.75%
+Cs 932,اولاد ربيع السويس,LG, 29.96612600 , 32.55426500 ,2,8- Pre الملاحة,Rep 202,Sup 38,Presell,Suez,USM 19,Canal Zone,RSM 5,1.00%
+Cs 933,مؤمن للمواد الغذائية,SG, 29.97488574 , 32.54821400 ,1,8- Pre الملاحة,Rep 202,Sup 38,Presell,Suez,USM 19,Canal Zone,RSM 5,0.75%
+Cs 934,اسلام,Kiosks, 29.97405444 , 32.54871512 ,1,8- Pre الملاحة,Rep 202,Sup 38,Conv,Suez,USM 19,Canal Zone,RSM 5,0.75%
+Cs 935,اولاد سيد جابر,SM, 29.96618529 , 32.55078383 ,1,8- Pre الملاحة,Rep 202,Sup 38,Conv,Suez,USM 19,Canal Zone,RSM 5,0.75%
+Cs 936,السراج,Kiosks, 29.93661981 , 32.56429984 ,1,8- Pre بورتوفيق,Rep 203,Sup 38,Conv,Suez,USM 19,Canal Zone,RSM 5,0.75%
+Cs 937,بقالة حمامه,SM, 29.96465347 , 32.55974323 ,1,8- Pre بورتوفيق,Rep 203,Sup 38,Conv,Suez,USM 19,Canal Zone,RSM 5,0.75%
+Cs 938,مينا,Kiosks, 29.96403048 , 32.55757358 ,1,8- Pre بورتوفيق,Rep 203,Sup 38,Conv,Suez,USM 19,Canal Zone,RSM 5,0.75%
+Cs 939,الشاليهات بورتوفيق 2,LG, 29.94960312 , 32.56805157 ,1,8- Pre بورتوفيق,Rep 203,Sup 38,Conv,Suez,USM 19,Canal Zone,RSM 5,0.75%
+Cs 940,بودى وكريم,SG, 29.99010618 , 32.50891283 ,1,8- Pre فيصل,Rep 204,Sup 38,Presell,Suez,USM 19,Canal Zone,RSM 5,0.75%
+Cs 941,س.م المصطفي,Kiosks, 29.98596544 , 32.51357619 ,2,8- Pre فيصل,Rep 204,Sup 38,Presell,Suez,USM 19,Canal Zone,RSM 5,1.00%
+Cs 942,هيرو,LG, 29.98357185 , 32.50695917 ,3,8- Pre فيصل,Rep 204,Sup 38,Presell,Suez,USM 19,Canal Zone,RSM 5,1.25%
+Cs 943,السخنة ماركت,SG, 29.84563923 , 32.48711676 ,3,8- السخنة 1,Rep 205,Sup 39,Presell,Suez,USM 19,Canal Zone,RSM 5,1.25%
+Cs 944,الوادى,Kiosks, 29.67431274 , 32.33822036 ,1,8- السخنة 1,Rep 205,Sup 39,Presell,Suez,USM 19,Canal Zone,RSM 5,0.75%
+Cs 945,بيترو,SG, 29.66880329 , 32.35354314 ,2,8- السخنة 1,Rep 205,Sup 39,Presell,Suez,USM 19,Canal Zone,RSM 5,1.00%
+Cs 946,جمال السخنة,Kiosks, 29.84756914 , 32.48603866 ,2,8- السخنة 1,Rep 205,Sup 39,Presell,Suez,USM 19,Canal Zone,RSM 5,1.00%
+Cs 947,فوود هاوس,LG, 29.67149222 , 32.33763729 ,3,8- السخنة 1,Rep 205,Sup 39,Conv,Suez,USM 19,Canal Zone,RSM 5,1.25%
+Cs 948,ماركت السخنة 1 A 2 Z,SG, 29.67216222 , 32.35378597 ,3,8- السخنة 1,Rep 205,Sup 39,Conv,Suez,USM 19,Canal Zone,RSM 5,1.25%
+Cs 949,س.م حجو,Kiosks, 29.84289344 , 32.48870820 ,1,8- السخنة 1,Rep 205,Sup 39,Conv,Suez,USM 19,Canal Zone,RSM 5,0.75%
+Cs 950,سوبرماركت ساندبيتش,SM, 29.84176252 , 32.48923045 ,2,8- السخنة 1,Rep 205,Sup 39,Conv,Suez,USM 19,Canal Zone,RSM 5,1.00%
+Cs 951,كنارى بيتش,Kiosks, 29.85768299 , 32.48035752 ,1,8- السخنة 1,Rep 205,Sup 39,Conv,Suez,USM 19,Canal Zone,RSM 5,0.75%
+Cs 952,بست واى العين السخنة 2,SM, 29.53680169 , 32.36428387 ,2,8- السخنة 2,Rep 206,Sup 39,Presell,Suez,USM 19,Canal Zone,RSM 5,1.00%
+Cs 953,S&C,Kiosks, 29.46046781 , 32.46338441 ,2,8- السخنة 2,Rep 206,Sup 39,Presell,Suez,USM 19,Canal Zone,RSM 5,1.00%
+Cs 954,ماركت سعودي,LG, 29.43669699 , 32.49564990 ,3,8- السخنة 2,Rep 206,Sup 39,Presell,Suez,USM 19,Canal Zone,RSM 5,1.25%
+Cs 955,الجزيرة,SG, 29.88855618 , 32.64185234 ,3,8- رأس سدر,Rep 207,Sup 39,Presell,Suez,USM 19,Canal Zone,RSM 5,1.25%
+Cs 956,بقالة أولاد عيسى,Kiosks, 30.75063350 , 32.21174277 ,1,09-CONV-11-أبو خليفة,Rep 208,Sup 40,Presell,Ismailia,USM 20,Canal Zone,RSM 5,0.75%
+Cs 957,التكيه ماركت,SG, 30.85086628 , 32.30540566 ,2,09-CONV-13- القنطرة غرب,Rep 209,Sup 40,Conv,Ismailia,USM 20,Canal Zone,RSM 5,1.00%
+Cs 958,الحداد ماركت,Kiosks, 30.85688123 , 32.30905195 ,1,09-CONV-13- القنطرة غرب,Rep 209,Sup 40,Conv,Ismailia,USM 20,Canal Zone,RSM 5,0.75%
+Cs 959,سوبر ماركت عرابي,LG, 30.46637775 , 32.32566276 ,2,09-CONV-2-أبو سلطان,Rep 210,Sup 40,Conv,Ismailia,USM 20,Canal Zone,RSM 5,1.00%
+Cs 960,سوبر ماركت محمد جبريل,SG, 30.40632744 , 32.30277455 ,1,09-CONV-2-أبو سلطان,Rep 210,Sup 40,Conv,Ismailia,USM 20,Canal Zone,RSM 5,0.75%
+Cs 961,سوبر ماركت سامى زين,Kiosks, 30.33008913 , 32.30216801 ,2,09-PRE-1- فايد,Rep 211,Sup 40,Conv,Ismailia,USM 20,Canal Zone,RSM 5,1.00%
+Cs 962,سوبر ماركت كريمة,SM, 30.32548426 , 32.29777002 ,2,09-PRE-1- فايد,Rep 211,Sup 40,Conv,Ismailia,USM 20,Canal Zone,RSM 5,1.00%
+Cs 963,سوبر ماركت ياسر شوقى,Kiosks, 30.33368704 , 32.30476658 ,3,09-PRE-1- فايد,Rep 211,Sup 40,Presell,Ismailia,USM 20,Canal Zone,RSM 5,1.25%
+Cs 964,عباد الرحمن فايد,SM, 30.32894100 , 32.29203211 ,3,09-PRE-1- فايد,Rep 211,Sup 40,Presell,Ismailia,USM 20,Canal Zone,RSM 5,1.25%
+Cs 965,ابو ربيع,Kiosks, 30.56036688 , 31.93679239 ,1,09-PRE-2- نفيشة,Rep 212,Sup 40,Presell,Ismailia,USM 20,Canal Zone,RSM 5,0.75%
+Cs 966,العمده,SM, 30.56021713 , 31.93682589 ,2,09-PRE-2- نفيشة,Rep 212,Sup 40,Presell,Ismailia,USM 20,Canal Zone,RSM 5,1.00%
+Cs 967,المدينه المنوره,Kiosks, 30.55997714 , 31.93689971 ,1,09-PRE-2- نفيشة,Rep 212,Sup 40,Presell,Ismailia,USM 20,Canal Zone,RSM 5,0.75%
+Cs 968,اولاد عبده الشاذلى,LG, 30.56001489 , 31.93701758 ,1,09-PRE-2- نفيشة,Rep 212,Sup 40,Presell,Ismailia,USM 20,Canal Zone,RSM 5,0.75%
+Cs 969,س.م عبد الحليم الشاذلي,SG, 30.56709467 , 32.23526132 ,1,09-PRE-2- نفيشة,Rep 212,Sup 40,Presell,Ismailia,USM 20,Canal Zone,RSM 5,0.75%
+Cs 970,س.م محمد حلمى نفيشة,Kiosks, 30.56737322 , 32.23575871 ,1,09-PRE-2- نفيشة,Rep 212,Sup 40,Conv,Ismailia,USM 20,Canal Zone,RSM 5,0.75%
+Cs 971,سوبر ماركت أبو حسان,LG, 30.56327612 , 32.23192411 ,1,09-PRE-2- نفيشة,Rep 212,Sup 40,Conv,Ismailia,USM 20,Canal Zone,RSM 5,0.75%
+Cs 972,سوبر ماركت الشامي,SG, 30.56728402 , 32.23607655 ,2,09-PRE-2- نفيشة,Rep 212,Sup 40,Conv,Ismailia,USM 20,Canal Zone,RSM 5,1.00%
+Cs 973,سوبر ماركت عباد الرحمن,Kiosks, 30.56701407 , 32.23381262 ,1,09-PRE-2- نفيشة,Rep 212,Sup 40,Conv,Ismailia,USM 20,Canal Zone,RSM 5,0.75%
+Cs 974,سوير ماركت على حسان,SM, 30.57013095 , 32.23895942 ,2,09-PRE-2- نفيشة,Rep 212,Sup 40,Conv,Ismailia,USM 20,Canal Zone,RSM 5,1.00%
+Cs 975,عيد القرمانى,LG, 30.56006202 , 31.93686833 ,1,09-PRE-2- نفيشة,Rep 212,Sup 40,Presell,Ismailia,USM 20,Canal Zone,RSM 5,0.75%
+Cs 976,كشك الفرماوى,SG, 30.58456425 , 32.26826419 ,2,09-PRE-2- نفيشة,Rep 212,Sup 40,Presell,Ismailia,USM 20,Canal Zone,RSM 5,1.00%
+Cs 977,اخوان الناجى,Kiosks, 30.60594365 , 32.29619125 ,2,09-PRE-3-الأسواق الخاصة,Rep 213,Sup 41,Presell,Ismailia,USM 20,Canal Zone,RSM 5,1.00%
+Cs 978,الجامعة الجديدة,SM, 30.62176555 , 32.27511823 ,3,09-PRE-3-الأسواق الخاصة,Rep 213,Sup 41,Presell,Ismailia,USM 20,Canal Zone,RSM 5,1.25%
+Cs 979,الحياة ماركت,Kiosks, 30.61120047 , 32.29901871 ,3,09-PRE-3-الأسواق الخاصة,Rep 213,Sup 41,Presell,Ismailia,USM 20,Canal Zone,RSM 5,1.25%
+Cs 980,بقالة آل على,LG, 30.60596038 , 32.29475782 ,1,09-PRE-3-الأسواق الخاصة,Rep 213,Sup 41,Conv,Ismailia,USM 20,Canal Zone,RSM 5,0.75%
+Cs 981,زياد ماركت,SG, 30.60625821 , 32.30934462 ,2,09-PRE-3-الأسواق الخاصة,Rep 213,Sup 41,Conv,Ismailia,USM 20,Canal Zone,RSM 5,1.00%
+Cs 982,س.م جنة الاسماعيلية,Kiosks, 30.60160129 , 32.26598114 ,1,09-PRE-3-الأسواق الخاصة,Rep 213,Sup 41,Conv,Ismailia,USM 20,Canal Zone,RSM 5,0.75%
+Cs 983,س.م علي أبو علي,LG, 30.60202930 , 32.29686457 ,1,09-PRE-3-الأسواق الخاصة,Rep 213,Sup 41,Conv,Ismailia,USM 20,Canal Zone,RSM 5,0.75%
+Cs 984,سوبر ماركت التعارف,SG, 30.60065819 , 32.29463119 ,1,09-PRE-3-الأسواق الخاصة,Rep 213,Sup 41,Conv,Ismailia,USM 20,Canal Zone,RSM 5,0.75%
+Cs 985,سوبر ماركت الدنيا بخير,Kiosks, 30.61195125 , 32.28898086 ,1,09-PRE-3-الأسواق الخاصة,Rep 213,Sup 41,Conv,Ismailia,USM 20,Canal Zone,RSM 5,0.75%
+Cs 986,سوبر ماركت الشرقية عرايشية مصر,SM, 30.59696411 , 32.27377399 ,1,09-PRE-3-الأسواق الخاصة,Rep 213,Sup 41,Presell,Ismailia,USM 20,Canal Zone,RSM 5,0.75%
+Cs 987,سوبر ماركت الناجي,Kiosks, 30.60577915 , 32.29249052 ,2,09-PRE-3-الأسواق الخاصة,Rep 213,Sup 41,Presell,Ismailia,USM 20,Canal Zone,RSM 5,1.00%
+Cs 988,سوبر ماركت اهل الصفه,SM, 30.61428760 , 32.29977199 ,1,09-PRE-3-الأسواق الخاصة,Rep 213,Sup 41,Presell,Ismailia,USM 20,Canal Zone,RSM 5,0.75%
+Cs 989,سوبر ماركت باندا,Kiosks, 30.62042821 , 32.28863137 ,2,09-PRE-3-الأسواق الخاصة,Rep 213,Sup 41,Presell,Ismailia,USM 20,Canal Zone,RSM 5,1.00%
+Cs 990,سوبر ماركت سفاري,LG, 30.59392409 , 32.26647964 ,2,09-PRE-3-الأسواق الخاصة,Rep 213,Sup 41,Presell,Ismailia,USM 20,Canal Zone,RSM 5,1.00%
+Cs 991,سوبر ماركت سمايل,SG, 30.61154228 , 32.28846978 ,3,09-PRE-3-الأسواق الخاصة,Rep 213,Sup 41,Presell,Ismailia,USM 20,Canal Zone,RSM 5,1.25%
+Cs 992,سوبر ماركت عماد سليمان,Kiosks, 30.60624924 , 32.27349473 ,3,09-PRE-3-الأسواق الخاصة,Rep 213,Sup 41,Presell,Ismailia,USM 20,Canal Zone,RSM 5,1.25%
+Cs 993,سوبر ماركت كريستال,LG, 30.60597436 , 32.28900359 ,1,09-PRE-3-الأسواق الخاصة,Rep 213,Sup 41,Conv,Ismailia,USM 20,Canal Zone,RSM 5,0.75%
+Cs 994,سوبر ماركت مؤمن رقم 1,SG, 30.60593776 , 32.28908415 ,2,09-PRE-3-الأسواق الخاصة,Rep 213,Sup 41,Conv,Ismailia,USM 20,Canal Zone,RSM 5,1.00%
+Cs 995,سوبر ماركتزهرة المدائنالزهور,Kiosks, 30.60589906 , 32.29780721 ,2,09-PRE-3-الأسواق الخاصة,Rep 213,Sup 41,Conv,Ismailia,USM 20,Canal Zone,RSM 5,1.00%
+Cs 996,سوبرماركت بينار,SG, 30.59728761 , 32.27448583 ,1,09-PRE-3-الأسواق الخاصة,Rep 213,Sup 41,Conv,Ismailia,USM 20,Canal Zone,RSM 5,0.75%
+Cs 997,سوبرماكت بكر العدوى,Kiosks, 30.60102332 , 32.26317937 ,2,09-PRE-3-الأسواق الخاصة,Rep 213,Sup 41,Conv,Ismailia,USM 20,Canal Zone,RSM 5,1.00%
+Cs 998,ابو على البحيرى,LG, 30.61798297 , 32.28669202 ,1,09-PRE-4- الموقف,Rep 214,Sup 41,Presell,Ismailia,USM 20,Canal Zone,RSM 5,0.75%
+Cs 999,ابو ياسر وهاني,SG, 30.61845916 , 32.28713426 ,2,09-PRE-4- الموقف,Rep 214,Sup 41,Presell,Ismailia,USM 20,Canal Zone,RSM 5,1.00%
+Cs 1000,زهران ماركت,Kiosks, 30.59635646 , 32.27765708 ,2,09-PRE-4- الموقف,Rep 214,Sup 41,Presell,Ismailia,USM 20,Canal Zone,RSM 5,1.00%
+Cs 1001,س.م الضبعالعوامي,SM, 30.40361947 , 32.30111598 ,3,09-PRE-4- الموقف,Rep 214,Sup 41,Presell,Ismailia,USM 20,Canal Zone,RSM 5,1.25%
+Cs 1002,سوبر ماركت الايمان بالله الشيخ زايد,Kiosks, 30.60451135 , 32.28839515 ,3,09-PRE-4- الموقف,Rep 214,Sup 41,Presell,Ismailia,USM 20,Canal Zone,RSM 5,1.25%
+Cs 1003,سوبر ماركت دهب,SM, 31.24114543 , 32.31852226 ,1,09-PRE-4- الموقف,Rep 214,Sup 41,Conv,Ismailia,USM 20,Canal Zone,RSM 5,0.75%
+Cs 1004,كشك أخبار اليوم1الموقف,Kiosks, 30.62110178 , 32.28925102 ,2,09-PRE-4- الموقف,Rep 214,Sup 41,Conv,Ismailia,USM 20,Canal Zone,RSM 5,1.00%
+Cs 1005,ماركت,LG, 30.61525672 , 32.28349475 ,1,09-PRE-4- الموقف,Rep 214,Sup 41,Conv,Ismailia,USM 20,Canal Zone,RSM 5,0.75%
+Cs 1006,سوبر ماركت التميمي,SG, 30.61267946 , 32.28571759 ,1,09-PRE-5- الجمعيات,Rep 215,Sup 41,Conv,Ismailia,USM 20,Canal Zone,RSM 5,0.75%
+Cs 1007,سوبر ماركت الفلسطيني,Kiosks, 30.61294636 , 32.28574373 ,1,09-PRE-5- الجمعيات,Rep 215,Sup 41,Conv,Ismailia,USM 20,Canal Zone,RSM 5,0.75%
+Cs 1008,سيد زيدان,SG, 30.60555523 , 32.29759987 ,1,09-PRE-5- الجمعيات,Rep 215,Sup 41,Conv,Ismailia,USM 20,Canal Zone,RSM 5,0.75%
+Cs 1009,بقالة حنين,Kiosks, 30.58730885 , 32.26329673 ,1,09-PRE-6-الأفرنج,Rep 216,Sup 41,Presell,Ismailia,USM 20,Canal Zone,RSM 5,0.75%
+Cs 1010,سوبر ماركت أبو كريم,LG, 30.58672442 , 32.26282223 ,2,09-PRE-6-الأفرنج,Rep 216,Sup 41,Presell,Ismailia,USM 20,Canal Zone,RSM 5,1.00%
+Cs 1011,سوبر ماركت سوكارنو,SG, 30.58549361 , 32.26007510 ,1,09-PRE-6-الأفرنج,Rep 216,Sup 41,Presell,Ismailia,USM 20,Canal Zone,RSM 5,0.75%
+Cs 1012,سوبر ماركتهلا ماركتالمحطة الجديدة,Kiosks, 30.58584660 , 32.26064134 ,2,09-PRE-6-الأفرنج,Rep 216,Sup 41,Presell,Ismailia,USM 20,Canal Zone,RSM 5,1.00%
+Cs 1013,ماركت ابن حلال,SM, 30.59366462 , 32.27048655 ,2,09-PRE-6-الأفرنج,Rep 216,Sup 41,Presell,Ismailia,USM 20,Canal Zone,RSM 5,1.00%
+Cs 1014,ماركت اولاد سليم,Kiosks, 30.59359492 , 32.27024755 ,3,09-PRE-6-الأفرنج,Rep 216,Sup 41,Presell,Ismailia,USM 20,Canal Zone,RSM 5,1.25%
+Cs 1015,ماركت ابو حجرمنشية الشهداء,SM, 30.58768249 , 32.25730196 ,3,09-PRE-7- الجامعة القديمة,Rep 217,Sup 41,Presell,Ismailia,USM 20,Canal Zone,RSM 5,1.25%
+Cs 1016,ماركت ابو خالد الحرمين,Kiosks, 30.59315216 , 32.25759360 ,1,09-PRE-7- الجامعة القديمة,Rep 217,Sup 41,Conv,Ismailia,USM 20,Canal Zone,RSM 5,0.75%
+Cs 1017,أبراهيم حسين العدوي,SM, 30.60237288 , 32.26193667 ,2,09-PRE-8- حي السلام,Rep 218,Sup 41,Conv,Ismailia,USM 20,Canal Zone,RSM 5,1.00%
+Cs 1018,أسواق الباشا  غلوش إخوان,Kiosks, 30.61628817 , 32.26750184 ,1,09-PRE-8- حي السلام,Rep 218,Sup 41,Conv,Ismailia,USM 20,Canal Zone,RSM 5,0.75%
+Cs 1019,النهار ماركت,LG, 30.60000238 , 32.25676085 ,2,09-PRE-8- حي السلام,Rep 218,Sup 41,Conv,Ismailia,USM 20,Canal Zone,RSM 5,1.00%
+Cs 1020,كافيتريا ابو ياسر ابو عبدالله,SG, 30.61374164 , 32.25706484 ,1,09-PRE-8- حي السلام,Rep 218,Sup 41,Conv,Ismailia,USM 20,Canal Zone,RSM 5,0.75%
+Cs 1021,ماركت اولاد حسوب,Kiosks, 30.61324802 , 32.26561884 ,1,09-PRE-8- حي السلام,Rep 218,Sup 41,Presell,Ismailia,USM 20,Canal Zone,RSM 5,0.75%
+Cs 1022,10-الرضا والنور,LG, 31.23835157 , 32.28928581 ,1,10-pre-cor-الاستثمار,Rep 219,Sup 42,Presell,Port Said,USM 21,Canal Zone,RSM 5,0.75%
+Cs 1023,10-كريم ماركت,SG, 31.24784325 , 32.28248410 ,1,10-pre-cor-الاستثمار,Rep 219,Sup 42,Presell,Port Said,USM 21,Canal Zone,RSM 5,0.75%
+Cs 1024,10-محمد محمد مصطفى قنديل,Kiosks, 31.24386456 , 32.29061653 ,1,10-pre-cor-الاستثمار,Rep 219,Sup 42,Presell,Port Said,USM 21,Canal Zone,RSM 5,0.75%
+Cs 1025,10-سعد الفار,SM, 31.26335164 , 32.30745027 ,2,10-pre-cor-الافرنج,Rep 220,Sup 42,Presell,Port Said,USM 21,Canal Zone,RSM 5,1.00%
+Cs 1026,10-فطوطة ماركت,LG, 31.26931021 , 32.30624065 ,1,10-pre-cor-الافرنج,Rep 220,Sup 42,Conv,Port Said,USM 21,Canal Zone,RSM 5,0.75%
+Cs 1027,10-ابو حمادة,SG, 31.26721379 , 32.26823009 ,2,10-pre-cor-التعاونيات,Rep 221,Sup 42,Conv,Port Said,USM 21,Canal Zone,RSM 5,1.00%
+Cs 1028,10-الصالح,Kiosks, 31.26752499 , 32.27379262 ,1,10-pre-cor-التعاونيات,Rep 221,Sup 42,Conv,Port Said,USM 21,Canal Zone,RSM 5,0.75%
+Cs 1029,10-الكوثر,SM, 31.26303490 , 32.27553897 ,2,10-pre-cor-التعاونيات,Rep 221,Sup 42,Conv,Port Said,USM 21,Canal Zone,RSM 5,1.00%
+Cs 1030,10-محمود,Kiosks, 31.26381133 , 32.27852441 ,2,10-pre-cor-التعاونيات,Rep 221,Sup 42,Conv,Port Said,USM 21,Canal Zone,RSM 5,1.00%
+Cs 1031,10-السماحى,LG, 31.27168361 , 32.26737393 ,3,10-pre-cor-الجوهره,Rep 222,Sup 42,Conv,Port Said,USM 21,Canal Zone,RSM 5,1.25%
+Cs 1032,10-الفاروق,SG, 31.26997380 , 32.26433031 ,3,10-pre-cor-الجوهره,Rep 222,Sup 42,Presell,Port Said,USM 21,Canal Zone,RSM 5,1.25%
+Cs 1033,10-المحلاوى ماركت,Kiosks, 31.26873102 , 32.26335368 ,1,10-pre-cor-الجوهره,Rep 222,Sup 42,Presell,Port Said,USM 21,Canal Zone,RSM 5,0.75%
+Cs 1034,10-المختار,LG, 31.27133708 , 32.26496620 ,2,10-pre-cor-الجوهره,Rep 222,Sup 42,Presell,Port Said,USM 21,Canal Zone,RSM 5,1.00%
+Cs 1035,10-المدينة,SG, 31.26812916 , 32.26595022 ,1,10-pre-cor-الجوهره,Rep 222,Sup 42,Presell,Port Said,USM 21,Canal Zone,RSM 5,0.75%
+Cs 1036,10- السعد ماركت,Kiosks, 31.27003261 , 32.29949086 ,1,10-pre-cor-الكورنيش,Rep 223,Sup 42,Presell,Port Said,USM 21,Canal Zone,RSM 5,0.75%
+Cs 1037,10-عادل,SM, 31.26712693 , 32.31479138 ,1,10-pre-cor-الكورنيش,Rep 223,Sup 42,Presell,Port Said,USM 21,Canal Zone,RSM 5,0.75%
+Cs 1038,10-عاشور,Kiosks, 31.27361472 , 32.28482531 ,1,10-pre-cor-الكورنيش,Rep 223,Sup 42,Presell,Port Said,USM 21,Canal Zone,RSM 5,0.75%
+Cs 1039,10-البرج,SM, 31.26254174 , 32.29374734 ,1,10-pre-cor-الكويت,Rep 224,Sup 42,Conv,Port Said,USM 21,Canal Zone,RSM 5,0.75%
+Cs 1040,10-العتر,Kiosks, 31.25993757 , 32.29459656 ,2,10-pre-cor-الكويت,Rep 224,Sup 42,Conv,Port Said,USM 21,Canal Zone,RSM 5,1.00%
+Cs 1041,10-راضى وهبه,LG, 31.26205822 , 32.30089140 ,2,10-pre-cor-الكويت,Rep 224,Sup 42,Conv,Port Said,USM 21,Canal Zone,RSM 5,1.00%
+Cs 1042,10-الاسرة السعيدة,SG, 31.27058351 , 32.28959006 ,3,10-pre-cor-المناخ,Rep 225,Sup 43,Conv,Port Said,USM 21,Canal Zone,RSM 5,1.25%
+Cs 1043,10-النقراشى,Kiosks, 31.26685435 , 32.30259331 ,3,10-pre-cor-المناخ,Rep 225,Sup 43,Conv,Port Said,USM 21,Canal Zone,RSM 5,1.25%
+Cs 1044,10-ابو صلاح,LG, 31.25806893 , 32.26936965 ,1,10-pre-cor-بنك الأسكان,Rep 226,Sup 44,Presell,Port Said,USM 21,Canal Zone,RSM 5,0.75%
+Cs 1045,10-الاسراء,SG, 31.25184871 , 32.26434378 ,2,10-pre-cor-بنك الأسكان,Rep 226,Sup 44,Presell,Port Said,USM 21,Canal Zone,RSM 5,1.00%
+Cs 1046,10-تامر العيسوي,Kiosks, 31.25501981 , 32.27742927 ,1,10-pre-cor-بنك الأسكان,Rep 226,Sup 44,Presell,Port Said,USM 21,Canal Zone,RSM 5,0.75%
+Cs 1047,10-خضير,SG, 31.25471416 , 32.26518382 ,1,10-pre-cor-بنك الأسكان,Rep 226,Sup 44,Presell,Port Said,USM 21,Canal Zone,RSM 5,0.75%
+Cs 1048,10-عم دهب,Kiosks, 31.25193467 , 32.26449689 ,1,10-pre-cor-بنك الأسكان,Rep 226,Sup 44,Presell,Port Said,USM 21,Canal Zone,RSM 5,0.75%
+Cs 1049,10-قناوى,LG, 31.25129971 , 32.28096571 ,1,10-pre-cor-بنك الأسكان,Rep 226,Sup 44,Conv,Port Said,USM 21,Canal Zone,RSM 5,0.75%
+Cs 1050,10-ماركت الخير,SG, 31.25335786 , 32.26687709 ,1,10-pre-cor-بنك الأسكان,Rep 226,Sup 44,Conv,Port Said,USM 21,Canal Zone,RSM 5,0.75%
+Cs 1051,10-مينا,Kiosks, 31.25023629 , 32.27998155 ,2,10-pre-cor-بنك الأسكان,Rep 226,Sup 44,Conv,Port Said,USM 21,Canal Zone,RSM 5,1.00%
+Cs 1052,10-جاد ماركت,SM, 31.23889790 , 32.31945929 ,1,10-pre-cor-بورفؤاد 1,Rep 227,Sup 44,Conv,Port Said,USM 21,Canal Zone,RSM 5,0.75%
+Cs 1053,10-ماركت نور الرحمن,Kiosks, 31.23992797 , 32.31801538 ,2,10-pre-cor-بورفؤاد 1,Rep 227,Sup 44,Conv,Port Said,USM 21,Canal Zone,RSM 5,1.00%
+Cs 1054,الشيماء,SM, 31.24246052 , 32.31942760 ,2,10-pre-cor-بورفؤاد 1,Rep 227,Sup 44,Conv,Port Said,USM 21,Canal Zone,RSM 5,1.00%
+Cs 1055,الفراعنة,Kiosks, 31.24582355 , 32.32121531 ,3,10-pre-cor-بورفؤاد 1,Rep 227,Sup 44,Presell,Port Said,USM 21,Canal Zone,RSM 5,1.25%
+Cs 1056,بركات,LG, 31.24306401 , 32.32375292 ,3,10-pre-cor-بورفؤاد 1,Rep 227,Sup 44,Presell,Port Said,USM 21,Canal Zone,RSM 5,1.25%
+Cs 1057,روما ماركت,SG, 31.24043675 , 32.32024322 ,1,10-pre-cor-بورفؤاد 1,Rep 227,Sup 44,Presell,Port Said,USM 21,Canal Zone,RSM 5,0.75%
+Cs 1058,صابر,Kiosks, 31.23822125 , 32.32071877 ,2,10-pre-cor-بورفؤاد 1,Rep 227,Sup 44,Presell,Port Said,USM 21,Canal Zone,RSM 5,1.00%
+Cs 1059,10-المنار,SG, 31.23412352 , 32.31871697 ,1,10-pre-cor-بورفؤاد 2,Rep 228,Sup 44,Presell,Port Said,USM 21,Canal Zone,RSM 5,0.75%
+Cs 1060,المصطفى,Kiosks, 31.23647832 , 32.32031224 ,2,10-pre-cor-بورفؤاد 2,Rep 228,Sup 44,Presell,Port Said,USM 21,Canal Zone,RSM 5,1.00%
+Cs 1061,بقالة الرحمة,LG, 31.23965071 , 32.28455650 ,1,10-pre-cor-بورفؤاد 2,Rep 228,Sup 44,Presell,Port Said,USM 21,Canal Zone,RSM 5,0.75%
+Cs 1062,10-اسواق القرى,SG, 31.26295261 , 32.25870985 ,1,10-pre-cor-خالد بن الوليد,Rep 229,Sup 44,Conv,Port Said,USM 21,Canal Zone,RSM 5,0.75%
+Cs 1063,10-العائلات,Kiosks, 31.26589168 , 32.25821058 ,1,10-pre-cor-خالد بن الوليد,Rep 229,Sup 44,Conv,Port Said,USM 21,Canal Zone,RSM 5,0.75%
+Cs 1064,بقالة سيد قويطة,SM, 31.05311916 , 32.29847700 ,1,10-بحرالبقر مباشر,Rep 230,Sup 44,Conv,Port Said,USM 21,Canal Zone,RSM 5,0.75%

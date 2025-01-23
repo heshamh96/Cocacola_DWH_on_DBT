@@ -20,7 +20,7 @@ select id
 ,age
 ,title
 
-from  {{ref('Employees')}}
+from  {{ref('employees')}}
 --****************
 {% if is_incremental() %}
 
@@ -41,7 +41,7 @@ select src.id
 ,src.name
 ,src.age
 ,src.title
-from  {{ref('Employees')}} src join {{this}} trgt on src.id=trgt.id
+from  {{ref('employees')}} src join {{this}} trgt on src.id=trgt.id
 
 
 

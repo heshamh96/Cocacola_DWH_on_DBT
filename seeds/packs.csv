@@ -1,0 +1,64 @@
+﻿SKU Code,Pack,Number of units,Volume,Pack type,Flavor,Flavor Category,Unit case conversion, Price , Total Cost , Margin ,Rep commission,Sup Commission,RSM Commission
+Core S 1,192 ml,24,0.192,SSRGB,Coca-Cola,Core Sparkling,0.811553364, 63.00 , 54.00 , 9.00 ,0.05,0.03,0.01
+Core S 2,192 ml,24,0.192,SSRGB,Sprite,Core Sparkling,0.811553364, 63.00 , 54.00 , 9.00 ,0.05,0.03,0.01
+Core S 3,192 ml,24,0.192,SSRGB,Fanta Orange,Core Sparkling,0.811553364, 63.00 , 54.00 , 9.00 ,0.05,0.03,0.01
+Core S 4,192 ml,24,0.192,SSRGB,Fanta Green Apple,Core Sparkling,0.811553364, 63.00 , 54.00 , 9.00 ,0.05,0.03,0.01
+Core S 5,350 ml,24,0.35,SSRGB,Coca-Cola,Core Sparkling,1.479394153, 70.00 , 61.00 , 9.00 ,0.05,0.03,0.01
+Core S 6,350 ml,24,0.35,SSRGB,Sprite,Core Sparkling,1.479394153, 70.00 , 61.00 , 9.00 ,0.05,0.03,0.01
+Core S 7,350 ml,24,0.35,SSRGB,Fanta Orange,Core Sparkling,1.479394153, 70.00 , 61.00 , 9.00 ,0.05,0.03,0.01
+Core S 8,350 ml,24,0.35,SSRGB,Fanta Green Apple,Core Sparkling,1.479394153, 70.00 , 61.00 , 9.00 ,0.05,0.03,0.01
+Core S 9,1.0 L,12,1,MSRGB,Coca-Cola,Core Sparkling,2.113420218, 72.50 , 65.00 , 7.50 ,0.05,0.03,0.01
+Core S 10,1.0 L,12,1,MSRGB,Sprite,Core Sparkling,2.113420218, 72.50 , 65.00 , 7.50 ,0.05,0.03,0.01
+Core S 11,1.0 L,12,1,MSRGB,Fanta Orange,Core Sparkling,2.113420218, 72.50 , 65.00 , 7.50 ,0.05,0.03,0.01
+Core S 12,1.0 L,12,1,MSRGB,Fanta Green Apple,Core Sparkling,2.113420218, 72.50 , 65.00 , 7.50 ,0.05,0.03,0.01
+Core S 13,400 ml,12,0.4,SSPET,Coca-Cola,Core Sparkling,0.845368087, 54.50 , 50.00 , 4.50 ,0.04,0.02,0.005
+Core S 14,400 ml,12,0.4,SSPET,Sprite,Core Sparkling,0.845368087, 54.50 , 50.00 , 4.50 ,0.04,0.02,0.005
+Core S 15,400 ml,12,0.4,SSPET,Fanta Orange,Core Sparkling,0.845368087, 54.50 , 50.00 , 4.50 ,0.04,0.02,0.005
+Core S 16,400 ml,12,0.4,SSPET,Fanta Green Apple,Core Sparkling,0.845368087, 54.50 , 50.00 , 4.50 ,0.04,0.02,0.005
+Core S 17,"0,97 L",6,0.97,MSPET,Coca-Cola,Core Sparkling,1.025008806, 44.00 , 39.00 , 5.00 ,0.05,0.03,0.01
+Core S 18,"0,97 L",6,0.97,MSPET,Sprite,Core Sparkling,1.025008806, 44.00 , 39.00 , 5.00 ,0.05,0.03,0.01
+Core S 19,"0,97 L",6,0.97,MSPET,Fanta Orange,Core Sparkling,1.025008806, 44.00 , 39.00 , 5.00 ,0.05,0.03,0.01
+Core S 20,"0,97 L",6,0.97,MSPET,Fanta Green Apple,Core Sparkling,1.025008806, 44.00 , 39.00 , 5.00 ,0.05,0.03,0.01
+Core S 21,"0,97 L",6,0.97,MSPET,Coca-Cola Zero,Core Sparkling,1.025008806, 44.00 , 39.00 , 5.00 ,0.05,0.03,0.01
+Core S 22,1.25 L,6,1.25,MSPET,Coca-Cola,Core Sparkling,1.320887636, 52.00 , 38.00 , 14.00 ,0.05,0.03,0.01
+Core S 23,1.25 L,6,1.25,MSPET,Sprite,Core Sparkling,1.320887636, 52.00 , 38.00 , 14.00 ,0.05,0.03,0.01
+Core S 24,1.25 L,6,1.25,MSPET,Fanta Orange,Core Sparkling,1.320887636, 52.00 , 38.00 , 14.00 ,0.05,0.03,0.01
+Core S 25,1.25 L,6,1.25,MSPET,Fanta Green Apple,Core Sparkling,1.320887636, 52.00 , 38.00 , 14.00 ,0.05,0.03,0.01
+Core S 26,1.97 L,6,1.97,MSPET,Coca-Cola,Core Sparkling,2.081718915, 66.25 , 62.00 , 4.25 ,0.05,0.03,0.01
+Core S 27,1.97 L,6,1.97,MSPET,Sprite,Core Sparkling,2.081718915, 66.25 , 62.00 , 4.25 ,0.05,0.03,0.01
+Core S 28,1.97 L,6,1.97,MSPET,Fanta Orange,Core Sparkling,2.081718915, 66.25 , 62.00 , 4.25 ,0.05,0.03,0.01
+Core S 29,1.97 L,6,1.97,MSPET,Fanta Green Apple,Core Sparkling,2.081718915, 66.25 , 62.00 , 4.25 ,0.05,0.03,0.01
+Core S 30,330 ml,24,0.33,Cans,Coca-Cola,Core Sparkling,1.394857344, 108.00 , 93.00 , 15.00 ,0.06,0.035,0.015
+Core S 31,330 ml,24,0.33,Cans,Sprite,Core Sparkling,1.394857344, 108.00 , 93.00 , 15.00 ,0.06,0.035,0.015
+Core S 32,330 ml,24,0.33,Cans,Fanta Orange,Core Sparkling,1.394857344, 108.00 , 93.00 , 15.00 ,0.06,0.035,0.015
+Core S 33,330 ml,24,0.33,Cans,Fanta Green Apple,Core Sparkling,1.394857344, 108.00 , 93.00 , 15.00 ,0.06,0.035,0.015
+Core S 34,330 ml,24,0.33,Cans,Coca-Cola Zero,Core Sparkling,1.394857344, 108.00 , 93.00 , 15.00 ,0.06,0.035,0.015
+Core S 35,250 ml ,24,0.25,Cans,Coca-Cola,Core Sparkling,1.056710109, 87.00 , 80.00 , 7.00 ,0.06,0.035,0.015
+Core S 36,250 ml ,24,0.25,Cans,Sprite,Core Sparkling,1.056710109, 87.00 , 80.00 , 7.00 ,0.06,0.035,0.015
+Core S 37,250 ml ,24,0.25,Cans,Fanta Orange,Core Sparkling,1.056710109, 87.00 , 80.00 , 7.00 ,0.06,0.035,0.015
+Core S 38,250 ml ,24,0.25,Cans,Fanta Green Apple,Core Sparkling,1.056710109, 87.00 , 80.00 , 7.00 ,0.06,0.035,0.015
+Core S 39,250 ml ,24,0.25,Cans,Coca-Cola Zero,Core Sparkling,1.056710109, 87.00 , 80.00 , 7.00 ,0.06,0.035,0.015
+Core S 40,250 ml ,12,0.25,SSNRGB,Coca-Cola,Core Sparkling,0.528355055, 87.00 , 80.00 , 7.00 ,0.06,0.035,0.015
+Core S 41,250 ml ,12,0.25,SSNRGB,Sprite,Core Sparkling,0.528355055, 37.75 , 34.00 , 3.75 ,0.06,0.035,0.015
+Core S 42,250 ml ,12,0.25,SSNRGB,Fanta Orange,Core Sparkling,0.528355055, 37.75 , 34.00 , 3.75 ,0.06,0.035,0.015
+Core S 43,250 ml ,12,0.25,SSNRGB,Fanta Green Apple,Core Sparkling,0.528355055, 37.75 , 34.00 , 3.75 ,0.06,0.035,0.015
+Core S 44,250 ml ,12,0.25,SSNRGB,Coca-Cola Zero,Core Sparkling,0.528355055, 37.75 , 34.00 , 3.75 ,0.06,0.035,0.015
+PS 1,330 ml,24,0.33,Cans,Tangerine,Premium Sparkling,1.394857344, 108.00 , 95.00 , 13.00 ,0.06,0.035,0.015
+PS 2,330 ml,24,0.33,Cans,Lemon Mint ,Premium Sparkling,1.394857344, 108.00 , 95.00 , 13.00 ,0.06,0.035,0.015
+PS 3,330 ml,24,0.33,Cans,Pommegranate,Premium Sparkling,1.394857344, 108.00 , 95.00 , 13.00 ,0.06,0.035,0.015
+FM 1,330 ml,24,0.33,Cans,Gold Pineapple,Flavored Malt,1.394857344, 108.00 , 95.00 , 13.00 ,0.06,0.035,0.015
+FM 2,330 ml,24,0.33,Cans,Gold Peach,Flavored Malt,1.394857344, 108.00 , 95.00 , 13.00 ,0.06,0.035,0.015
+PS 4,250 ml ,12,0.25,SSNRGB,Tangerine,Premium Sparkling,0.528355055, 50.50 , 48.00 , 2.50 ,0.06,0.035,0.015
+PS 5,250 ml ,12,0.25,SSNRGB,Lemon Mint ,Premium Sparkling,0.528355055, 50.50 , 48.00 , 2.50 ,0.06,0.035,0.015
+PS 6,250 ml ,12,0.25,SSNRGB,Pommegranate,Premium Sparkling,0.528355055, 50.50 , 48.00 , 2.50 ,0.06,0.035,0.015
+FM 3,250 ml ,12,0.25,SSNRGB,Gold Pineapple,Flavored Malt,0.528355055, 51.00 , 49.00 , 2.00 ,0.06,0.035,0.015
+FM 4,250 ml ,12,0.25,SSNRGB,Gold Peach,Flavored Malt,0.528355055, 51.00 , 49.00 , 2.00 ,0.06,0.035,0.015
+W 1,600 ml,20,20,SSPET,Dasani,Water,70.44734061, 43.00 , 39.00 , 4.00 ,0.03,0.01,0.005
+W 2,1.5 L,12,1.5,MSPET,Dasani,Water,3.170130328, 43.00 , 39.00 , 4.00 ,0.03,0.01,0.005
+W 3,5 Gallon,1,18.9,Gallon,Dasani,Water,3.328636844, 37.00 , 34.00 , 3.00 ,0.03,0.01,0.005
+PS 7,350 ml,12,0.33,Cans,Tangerine,Premium Sparkling,0.697428672, 52.50 , 50.00 , 2.50 ,0.06,0.035,0.015
+PS 8,350 ml,12,0.33,Cans,Lemon Mint ,Premium Sparkling,0.697428672, 52.50 , 50.00 , 2.50 ,0.06,0.035,0.015
+PS 9,350 ml,12,0.33,Cans,Pommegranate,Premium Sparkling,0.697428672, 52.50 , 50.00 , 2.50 ,0.06,0.035,0.015
+PS 10,350 ml,6,0.97,MSPET,Tangerine,Premium Sparkling,1.025008806, 54.25 , 49.00 , 5.25 ,0.05,0.03,0.01
+PS 11,350 ml,6,0.97,MSPET,Lemon Mint ,Premium Sparkling,1.025008806, 54.25 , 49.00 , 5.25 ,0.05,0.03,0.01
+PS 12,350 ml,6,0.97,MSPET,Pommegranate,Premium Sparkling,1.025008806, 54.25 , 49.00 , 5.25 ,0.05,0.03,0.01

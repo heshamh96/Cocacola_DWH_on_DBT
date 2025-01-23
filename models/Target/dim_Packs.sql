@@ -23,4 +23,4 @@ SELECT
 	Sup_Commission,
 	RSM_Commission
 FROM
-	{{ref('Packs_DB')}}
+	{{ref('packs_db')}}

@@ -12,9 +12,9 @@ models:
         - unique
         - not_null
 
-  - name: dim_Packs
+  - name: dim_packs
     description: | 
-                  The Dimension Packs is a dimention of all productns and sales people with in the Operations of Cocacola 
+                  The Dimension packs is a dimention of all productns and sales people with in the Operations of Cocacola 
     columns:
       - name: SKU_Code
         description: '{{ doc("SKU_Code") }}'

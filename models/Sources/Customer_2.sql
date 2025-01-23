@@ -3,20 +3,22 @@
 
 
 SELECT
-	Customer_Code,
-	Customer_name,
-	Customer_Channel_type,
-	X_Axis,
-	Y_Axis,
-	Number_of_Doors,
-	Route,
-	Rep_name,
-	Supervisor_name,
-	Service_Channel,
-	Depot,
-	USM_name,
-	Region,
-	RSM,
-	Discount
+	"Customer Code" as customer_code,
+	"Customer name" as customer_name,
+	"Customer Channel type" as customer_channel_type,
+	" X Axis " as x_axis,
+	" Y Axis " as y_axis,
+	"Number of Doors" as number_of_doors,
+	"Route" as route,
+	"Rep name" as rep_name,
+	"Supervisor name" as supervisor_name,
+	"Service Channel" as service_channel,
+	"Depot" as depot,
+	"USM name" as usm_name,
+	"Region" as region,
+	"RSM" as rsm,
+	"Discount" as discount
+	
+	
 FROM
-	{{source('Cocacola','Customers_DB_2')}}
+	{{source('Cocacola','customers_db_2')}}

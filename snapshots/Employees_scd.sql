@@ -4,10 +4,11 @@
 
 {{
 config(
-        target_schema='dbo',
+        target_schema='public',
         strategy='check',
         unique_key='id',
-        check_cols=['age','title']
+        check_cols=['age','title'],
+        enabled=false
         )
 
 
@@ -22,7 +23,7 @@ id
 ,title
 
 from
-	{{ref('Employees')}}
+	{{ref('employees')}}
 
 
 

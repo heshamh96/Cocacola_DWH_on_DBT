@@ -1,20 +1,16 @@
-
-
-
 {{ config(materialized='view') }}
 
 SELECT
-	Customer_Code,
-	SKU_Code,
-	Quantity,
-	Ordering_Date,
-	Delivery_Date,
-	Days_For_Delivery,
-	[Day],
-	[Month],
-	[Year],
-	Calendar_Day
-	, '2' as file_name
+	"Customer Code" AS customer_code,
+	"SKU Code" AS sku_code,
+	"Quantity" AS quantity,
+	"Ordering Date" AS ordering_date,
+	"Delivery Date" AS delivery_date,
+	" Days For Delivery " AS days_for_delivery,
+	"Day" AS day,
+	"Month" AS month,
+	"Year" AS year,
+	"Calendar Day" AS calendar_day,
+	'2' AS file_name
 FROM
-
-    {{source('Cocacola','Transactions_2')}}
+    {{source('Cocacola','transactions_b')}}

@@ -1,30 +1,30 @@
 [0m17:23:00  [[33mWARNING[0m]: Configuration paths exist in your dbt_project.yml file which do not apply to any resources.
 There are 1 unused configuration paths:
 - models.Cocacola_DWH.example
-Cocacola_DWH.Sources.Customer_1
-Cocacola_DWH.Sources.Customer_2
-Cocacola_DWH.Sources.Packs_DB
-Cocacola_DWH.Sources.Transactions_1
-Cocacola_DWH.Sources.Transactions_2
-Cocacola_DWH.Sources.Transactions_3
+Cocacola_DWH.Sources.customer_1
+Cocacola_DWH.Sources.customer_2
+Cocacola_DWH.Sources.packs_db
+Cocacola_DWH.Sources.transactions_1
+Cocacola_DWH.Sources.transactions_2
+Cocacola_DWH.Sources.transactions_3
 Cocacola_DWH.Target.dim_Customers
 Cocacola_DWH.Target.dim_Employees
-Cocacola_DWH.Target.dim_Packs
+Cocacola_DWH.Target.dim_packs
 Cocacola_DWH.Target.fact_Transactions
 Cocacola_DWH.Staging.stg_fact_Transactions
 Cocacola_DWH.Employees
 Cocacola_DWH.dim_files
 Cocacola_DWH.Employees_scd.Employees_scd
-source:Cocacola_DWH.Cocacola.Customers_DB_1
-source:Cocacola_DWH.Cocacola.Customers_DB_2
-source:Cocacola_DWH.Cocacola.Packs_DB
-source:Cocacola_DWH.Cocacola.Transactions_1
-source:Cocacola_DWH.Cocacola.Transactions_2
-source:Cocacola_DWH.Cocacola.Transactions_3
+source:Cocacola_DWH.Cocacola.customers_db_1
+source:Cocacola_DWH.Cocacola.customers_db_2
+source:Cocacola_DWH.Cocacola.packs_db
+source:Cocacola_DWH.Cocacola.transactions_1
+source:Cocacola_DWH.Cocacola.transactions_2
+source:Cocacola_DWH.Cocacola.transactions_3
 Cocacola_DWH.accepted_values_fact_Transactions_file_name__False__1__2__3
 Cocacola_DWH.fact_transactions_test
 Cocacola_DWH.not_null_dim_Customers_Customer_Code
-Cocacola_DWH.not_null_dim_Packs_SKU_Code
+Cocacola_DWH.not_null_dim_packs_SKU_Code
 Cocacola_DWH.unique_dim_Customers_Customer_Code
-Cocacola_DWH.unique_dim_Packs_SKU_Code
+Cocacola_DWH.unique_dim_packs_SKU_Code
 Cocacola_DWH.unique_fact_Transactions__Customer_Code_SKU_Code_

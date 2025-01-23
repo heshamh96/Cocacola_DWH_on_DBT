@@ -2,12 +2,12 @@ version: 2
 sources:
 
   - name: Cocacola
-    database: Cocacola-DB
-    schema: dbo
+    database: coke_db
+    schema: public
     tables:
-      - name: Customers_DB_1
-      - name: Customers_DB_2
-      - name: Packs_DB
-      - name: Transactions_1
-      - name: Transactions_2
-      - name: Transactions_3
+      - name: customers_db_1
+      - name: customers_db_2
+      - name: packs
+      - name: transactions_a
+      - name: transactions_b
+      - name: transactions_c

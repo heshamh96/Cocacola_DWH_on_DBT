@@ -19,4 +19,4 @@ SELECT
 	RSM,
 	Discount
 FROM
-	{{source('Cocacola','Customers_DB_2')}}
+	{{source('Cocacola','customers_db_2')}}
