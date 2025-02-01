@@ -1,0 +1,12 @@
+Cocacola_DWH:
+  outputs:
+    dev:
+      dbname: coke_db
+      host: localhost
+      pass: postgres
+      port: 5432
+      schema: public
+      threads: 4
+      type: postgres
+      user: postgres
+  target: dev
