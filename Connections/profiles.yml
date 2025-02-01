@@ -10,3 +10,4 @@ Cocacola_DWH:
       type: postgres
       user: postgres
   target: dev
+
