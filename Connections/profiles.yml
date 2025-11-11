@@ -1,7 +1,7 @@
 Cocacola_DWH:
   outputs:
     dev:
-      dbname: coke_db
+      dbname: coke_db # postgres (currently)
       host: localhost
       pass: postgres
       port: 5432

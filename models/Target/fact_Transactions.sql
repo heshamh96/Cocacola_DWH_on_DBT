@@ -19,4 +19,4 @@ SELECT
 	margin,
 	file_name
 FROM
-    {{ref('stg_fact_Transactions')}}
+    {{ref('stg_fact_transactions')}}

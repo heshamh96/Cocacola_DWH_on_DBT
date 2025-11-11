@@ -10,5 +10,5 @@
 
 select * 
 from 
-{{ref('fact_Transactions')}}
+{{ref('fact_transactions')}}
 where file_name=3

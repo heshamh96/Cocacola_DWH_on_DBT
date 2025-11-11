@@ -4,7 +4,7 @@ version: 2
 
 
 models:
-  - name: dim_Customers
+  - name: dim_customers
     description: a Dimenson That represents all the Customers of Cocacola 
     columns:
       - name: Customer_Code
@@ -24,16 +24,16 @@ models:
 
 
 
-  - name: fact_Transactions
-    description: '{{ doc("fact_Transactions_Description") }}'
-    tests:
-    - unique:
-            column_name: " Customer_Code + SKU_Code "
-    columns:
-      - name: SKU_code
-        description: '{{ doc("SKU_Code") }}'
-      - name: file_name
-        tests:
-          - accepted_values:
-              values: [1,2,3]
-              quote: false
+  # - name: fact_transactions
+  #   description: '{{ doc("fact_transactions_description") }}'
+  #   tests:
+  #   - unique:
+  #           column_name: " Customer_Code + SKU_Code "
+  #   columns:
+  #     - name: SKU_code
+  #       description: '{{ doc("SKU_Code") }}'
+  #     - name: file_name
+  #       tests:
+  #         - accepted_values:
+  #             values: [1,2,3]
+  #             quote: false

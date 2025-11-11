@@ -2,7 +2,7 @@ version: 2
 sources:
 
   - name: Cocacola
-    database: coke_db
+    database: postgres
     schema: public
     tables:
       - name: customers_db_1
